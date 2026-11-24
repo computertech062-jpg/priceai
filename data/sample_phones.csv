@@ -1,0 +1,665 @@
+brand,model,chipset,release_year,ram_gb,storage_gb,chipset_tier,main_camera_mp,front_camera_mp,battery_mah,fast_charge_w,screen_inch,refresh_rate_hz,display_type,weight_g,os,has_5g,has_nfc,price_usd
+Apple,iPhone 11,A13 Bionic,2019,6,512,4,12,12,4300,20,6.5,60,OLED,199,iOS,1,1,409
+Apple,iPhone 11,A13 Bionic,2019,6,128,4,12,12,4300,20,6.5,60,OLED,199,iOS,1,1,349
+Apple,iPhone 11,A13 Bionic,2019,6,256,4,12,12,4300,20,6.5,60,OLED,199,iOS,1,1,384
+Apple,iPhone 11 Plus,A13 Bionic,2019,6,128,3,12,12,4050,20,6.7,60,OLED,189,iOS,1,1,294
+Apple,iPhone 11 Plus,A13 Bionic,2019,6,256,3,12,12,4050,20,6.7,60,OLED,189,iOS,1,1,354
+Apple,iPhone 11 Plus,A13 Bionic,2019,6,256,3,12,12,4050,20,6.7,60,OLED,189,iOS,1,1,354
+Apple,iPhone 11 Pro Max,A13 Bionic,2019,6,128,4,12,12,4250,20,6.6,60,OLED,189,iOS,0,1,439
+Apple,iPhone 11 Pro Max,A13 Bionic,2019,6,256,4,12,12,4250,20,6.6,60,OLED,189,iOS,0,1,459
+Apple,iPhone 11 Pro Max,A13 Bionic,2019,6,256,4,12,12,4250,20,6.6,60,OLED,189,iOS,0,1,499
+Apple,iPhone 12,A14 Bionic,2020,6,128,4,12,12,4500,20,6.5,60,OLED,203,iOS,1,1,494
+Apple,iPhone 12,A14 Bionic,2020,6,256,4,12,12,4500,20,6.5,60,OLED,203,iOS,1,1,534
+Apple,iPhone 12,A14 Bionic,2020,6,256,4,12,12,4500,20,6.5,60,OLED,203,iOS,1,1,564
+Apple,iPhone 12 Plus,A14 Bionic,2020,6,256,4,12,12,4650,20,6.5,60,OLED,208,iOS,1,1,489
+Apple,iPhone 12 Pro,A14 Bionic,2020,8,512,5,12,12,3950,20,6.4,60,OLED,211,iOS,1,1,774
+Apple,iPhone 12 Pro,A14 Bionic,2020,8,256,5,12,12,3950,20,6.4,60,OLED,211,iOS,1,1,729
+Apple,iPhone 12 Pro,A14 Bionic,2020,8,512,5,12,12,3950,20,6.4,60,OLED,211,iOS,1,1,764
+Apple,iPhone 12 Pro Max,A14 Bionic,2020,6,128,4,12,12,4500,20,6.2,60,OLED,185,iOS,0,1,464
+Apple,iPhone 12 Pro Max,A14 Bionic,2020,6,512,4,12,12,4500,20,6.2,60,OLED,185,iOS,0,1,534
+Apple,iPhone 13,A15 Bionic,2021,6,128,4,12,12,4550,20,6.7,60,OLED,202,iOS,1,1,484
+Apple,iPhone 13,A15 Bionic,2021,6,256,4,12,12,4550,20,6.7,60,OLED,202,iOS,1,1,594
+Apple,iPhone 13,A15 Bionic,2021,6,512,4,12,12,4550,20,6.7,60,OLED,202,iOS,1,1,579
+Apple,iPhone 13 Plus,A15 Bionic,2021,6,128,3,12,12,4000,20,6.2,60,LCD,203,iOS,1,1,284
+Apple,iPhone 13 Pro,A15 Bionic,2021,8,512,5,12,12,4250,20,6.3,120,OLED,202,iOS,1,1,844
+Apple,iPhone 13 Pro,A15 Bionic,2021,8,1024,5,12,12,4250,20,6.3,120,OLED,202,iOS,1,1,994
+Apple,iPhone 13 Pro,A15 Bionic,2021,8,512,5,12,12,4250,20,6.3,120,OLED,202,iOS,1,1,874
+Apple,iPhone 13 Pro Max,A15 Bionic,2021,6,256,4,12,12,4550,20,6.3,60,OLED,202,iOS,1,1,429
+Apple,iPhone 13 Pro Max,A15 Bionic,2021,6,512,4,12,12,4550,20,6.3,60,OLED,202,iOS,1,1,474
+Apple,iPhone 14,A16 Bionic,2022,6,128,4,12,12,4650,20,6.2,60,LCD,193,iOS,0,1,424
+Apple,iPhone 14,A16 Bionic,2022,6,512,4,12,12,4650,20,6.2,60,LCD,193,iOS,0,1,469
+Apple,iPhone 14,A16 Bionic,2022,6,512,4,12,12,4650,20,6.2,60,LCD,193,iOS,0,1,489
+Apple,iPhone 14 Pro,A16 Pro Bionic,2022,8,1024,5,48,12,4500,20,6.0,120,OLED,204,iOS,1,1,974
+Apple,iPhone 14 Pro,A16 Pro Bionic,2022,8,256,5,48,12,4500,20,6.0,120,OLED,204,iOS,1,1,819
+Apple,iPhone 14 Pro Max,A16 Bionic,2022,6,256,4,12,12,4600,20,6.5,60,LCD,200,iOS,1,1,479
+Apple,iPhone 15,A17 Bionic,2023,6,128,4,12,12,4450,27,6.7,60,OLED,208,iOS,1,1,424
+Apple,iPhone 15 Plus,A17 Bionic,2023,6,256,4,12,12,3650,27,6.6,60,OLED,195,iOS,1,1,479
+Apple,iPhone 15 Pro,A17 Pro Bionic,2023,8,1024,5,48,12,4650,27,6.1,120,OLED,182,iOS,1,1,1354
+Apple,iPhone 15 Pro,A17 Pro Bionic,2023,8,256,5,48,12,4650,27,6.1,120,OLED,182,iOS,1,1,1079
+Apple,iPhone 15 Pro,A17 Pro Bionic,2023,8,512,5,48,12,4650,27,6.1,120,OLED,182,iOS,1,1,1254
+Apple,iPhone 15 Pro Max,A17 Bionic,2023,6,128,4,12,12,4500,27,6.6,60,OLED,177,iOS,1,1,564
+Apple,iPhone 15 Pro Max,A17 Bionic,2023,6,128,4,12,12,4500,27,6.6,60,OLED,177,iOS,1,1,519
+Apple,iPhone 16 Plus,A18 Bionic,2025,6,256,4,12,12,4600,27,6.0,60,OLED,171,iOS,1,1,494
+Apple,iPhone 16 Plus,A18 Bionic,2025,6,512,4,12,12,4600,27,6.0,60,OLED,171,iOS,1,1,569
+Apple,iPhone 16 Pro,A18 Pro Bionic,2025,8,256,5,48,12,4250,27,6.1,120,OLED,203,iOS,0,1,799
+Apple,iPhone 16 Pro Max,A18 Bionic,2025,6,128,4,12,12,4200,27,6.8,60,OLED,189,iOS,1,1,499
+Apple,iPhone 16 Pro Max,A18 Bionic,2025,6,256,4,12,12,4200,27,6.8,60,OLED,189,iOS,1,1,554
+Apple,iPhone 16 Pro Max,A18 Bionic,2025,6,512,4,12,12,4200,27,6.8,60,OLED,189,iOS,1,1,554
+Samsung,Galaxy S20,Snapdragon 8 Gen 2,2019,8,256,5,200,32,5400,100,6.4,120,OLED,206,Android,1,1,964
+Samsung,Galaxy S20,Snapdragon 8 Gen 2,2019,8,1024,5,200,32,5400,100,6.4,120,OLED,206,Android,1,1,1119
+Samsung,Galaxy S20,Snapdragon 8 Gen 2,2019,16,256,5,200,32,5400,100,6.4,120,OLED,206,Android,1,1,964
+Samsung,Galaxy S20+,Snapdragon 8 Gen 2,2019,12,1024,5,50,12,4750,45,6.2,120,OLED,177,Android,1,1,784
+Samsung,Galaxy S20 Ultra,Dimensity 7200,2019,8,128,4,108,16,4750,33,6.4,120,OLED,209,Android,0,1,384
+Samsung,Galaxy S21,Snapdragon 8 Gen 2,2020,12,512,5,50,40,4600,100,6.4,120,OLED,199,Android,1,1,699
+Samsung,Galaxy S21+,Snapdragon 8 Gen 3,2020,8,256,5,50,32,5150,120,6.8,120,OLED,202,Android,1,1,639
+Samsung,Galaxy S21+,Snapdragon 8 Gen 3,2020,8,1024,5,50,32,5150,120,6.8,120,OLED,202,Android,1,1,754
+Samsung,Galaxy S21 Ultra,Snapdragon 7 Gen 3,2020,8,512,4,64,16,5450,80,6.5,144,OLED,191,Android,1,1,499
+Samsung,Galaxy S21 Ultra,Snapdragon 7 Gen 3,2020,12,512,4,64,16,5450,80,6.5,144,OLED,191,Android,1,1,499
+Samsung,Galaxy S22,Dimensity 9300,2021,8,1024,5,48,32,4650,25,6.5,120,OLED,190,Android,1,1,854
+Samsung,Galaxy S22,Dimensity 9300,2021,16,512,5,48,32,4650,25,6.5,120,OLED,190,Android,1,1,819
+Samsung,Galaxy S22 Ultra,Snapdragon 7 Gen 3,2021,8,128,4,108,16,5050,67,6.2,120,LCD,185,Android,1,0,514
+Samsung,Galaxy S22 Ultra,Snapdragon 7 Gen 3,2021,8,512,4,108,16,5050,67,6.2,120,LCD,185,Android,1,0,574
+Samsung,Galaxy S22 Ultra,Snapdragon 7 Gen 3,2021,12,256,4,108,16,5050,67,6.2,120,LCD,185,Android,1,0,549
+Samsung,Galaxy S23,Dimensity 9300,2022,8,256,5,200,32,4950,80,6.0,120,OLED,197,Android,1,1,669
+Samsung,Galaxy S23,Dimensity 9300,2022,12,1024,5,200,32,4950,80,6.0,120,OLED,197,Android,1,1,789
+Samsung,Galaxy S23,Dimensity 9300,2022,16,256,5,200,32,4950,80,6.0,120,OLED,197,Android,1,1,734
+Samsung,Galaxy S23+,Dimensity 9300,2022,8,512,5,50,12,5000,100,6.3,120,OLED,185,Android,1,1,984
+Samsung,Galaxy S23+,Dimensity 9300,2022,12,256,5,50,12,5000,100,6.3,120,OLED,185,Android,1,1,894
+Samsung,Galaxy S23 Ultra,Snapdragon 7+ Gen 2,2022,8,128,4,50,16,4900,67,6.3,144,OLED,187,Android,1,1,404
+Samsung,Galaxy S23 Ultra,Snapdragon 7+ Gen 2,2022,12,128,4,50,16,4900,67,6.3,144,OLED,187,Android,1,1,429
+Samsung,Galaxy S24,Snapdragon 8 Gen 3,2023,16,1024,5,200,40,5500,45,6.2,120,OLED,195,Android,1,1,979
+Samsung,Galaxy S24+,Snapdragon 8 Gen 2,2023,12,1024,5,50,40,5450,100,6.2,120,OLED,195,Android,1,1,1114
+Samsung,Galaxy S25,Snapdragon 8 Gen 3,2025,8,512,5,48,12,4650,120,6.6,120,OLED,196,Android,1,1,994
+Samsung,Galaxy S25+,Snapdragon 8 Gen 3,2025,8,256,5,48,12,4800,100,6.4,120,OLED,198,Android,1,1,694
+Samsung,Galaxy S25+,Snapdragon 8 Gen 3,2025,12,512,5,48,12,4800,100,6.4,120,OLED,198,Android,1,1,789
+Samsung,Galaxy A10,Snapdragon 695,2019,6,128,3,50,16,4900,45,6.2,120,LCD,170,Android,1,1,244
+Samsung,Galaxy A10,Snapdragon 695,2019,6,256,3,50,16,4900,45,6.2,120,LCD,170,Android,1,1,269
+Samsung,Galaxy A10,Snapdragon 695,2019,8,128,3,50,16,4900,45,6.2,120,LCD,170,Android,1,1,264
+Samsung,Galaxy A15,Snapdragon 4 Gen 1,2019,4,32,1,13,5,4850,10,6.3,90,LCD,175,Android,0,0,79
+Samsung,Galaxy A15,Snapdragon 4 Gen 1,2019,4,64,1,13,5,4850,10,6.3,90,LCD,175,Android,0,0,94
+Samsung,Galaxy A20,Snapdragon 695,2019,6,128,3,108,16,4800,45,6.0,90,OLED,213,Android,1,0,234
+Samsung,Galaxy A20,Snapdragon 695,2019,6,256,3,108,16,4800,45,6.0,90,OLED,213,Android,1,0,269
+Samsung,Galaxy A25,Snapdragon 7+ Gen 2,2020,8,128,4,50,16,5150,67,6.4,120,OLED,191,Android,0,1,369
+Samsung,Galaxy A25,Snapdragon 7+ Gen 2,2020,12,128,4,50,16,5150,67,6.4,120,OLED,191,Android,0,1,394
+Samsung,Galaxy A25,Snapdragon 7+ Gen 2,2020,12,256,4,50,16,5150,67,6.4,120,OLED,191,Android,0,1,424
+Samsung,Galaxy A30,Snapdragon 680,2020,6,64,2,50,13,4850,33,6.5,90,LCD,185,Android,0,1,139
+Samsung,Galaxy A30,Snapdragon 680,2020,6,128,2,50,13,4850,33,6.5,90,LCD,185,Android,0,1,159
+Samsung,Galaxy A35,Unisoc T606,2021,3,32,1,50,8,5250,18,6.6,90,LCD,155,Android,1,0,104
+Samsung,Galaxy A40,Snapdragon 680,2021,4,128,2,48,13,5000,25,6.3,120,LCD,158,Android,0,1,179
+Samsung,Galaxy A40,Snapdragon 680,2021,6,64,2,48,13,5000,25,6.3,120,LCD,158,Android,0,1,189
+Samsung,Galaxy A55,Helio G85,2023,4,64,2,50,13,5450,25,6.4,90,LCD,191,Android,0,1,129
+Samsung,Galaxy A55,Helio G85,2023,4,128,2,50,13,5450,25,6.4,90,LCD,191,Android,0,1,139
+Samsung,Galaxy A55,Helio G85,2023,6,128,2,50,13,5450,25,6.4,90,LCD,191,Android,0,1,134
+Samsung,Galaxy A60,Unisoc T606,2023,3,32,1,13,5,4400,18,6.1,90,LCD,189,Android,1,1,94
+Samsung,Galaxy A60,Unisoc T606,2023,4,32,1,13,5,4400,18,6.1,90,LCD,189,Android,1,1,94
+Samsung,Galaxy A60,Unisoc T606,2023,4,64,1,13,5,4400,18,6.1,90,LCD,189,Android,1,1,104
+Samsung,Galaxy A65,Snapdragon 680,2024,6,64,2,50,8,5450,18,6.3,90,LCD,164,Android,1,1,139
+Samsung,Galaxy A65,Snapdragon 680,2024,6,128,2,50,8,5450,18,6.3,90,LCD,164,Android,1,1,144
+Samsung,Galaxy A70,Snapdragon 695,2024,6,128,3,64,13,5700,25,6.2,120,LCD,184,Android,0,1,229
+Samsung,Galaxy A70,Snapdragon 695,2024,6,256,3,64,13,5700,25,6.2,120,LCD,184,Android,0,1,269
+Samsung,Galaxy A70,Snapdragon 695,2024,8,128,3,64,13,5700,25,6.2,120,LCD,184,Android,0,1,234
+Samsung,Galaxy A75,Dimensity 6100+,2025,8,256,3,108,16,5050,33,6.5,90,LCD,192,Android,1,1,279
+Samsung,Galaxy M12,Helio G99,2019,4,64,2,50,8,5200,25,6.4,90,LCD,197,Android,1,0,139
+Samsung,Galaxy M20,Exynos 1280,2020,6,128,3,108,16,5600,33,6.1,120,OLED,180,Android,1,1,304
+Samsung,Galaxy M24,Helio G85,2020,6,128,2,50,13,5200,18,6.4,90,LCD,172,Android,1,1,159
+Samsung,Galaxy M32,Snapdragon 680,2022,4,128,2,50,13,4500,25,6.5,90,LCD,166,Android,0,1,149
+Samsung,Galaxy M32,Snapdragon 680,2022,6,128,2,50,13,4500,25,6.5,90,LCD,166,Android,0,1,159
+Samsung,Galaxy M36,Snapdragon 695,2022,8,128,3,50,16,5300,33,6.1,90,LCD,187,Android,1,1,264
+Samsung,Galaxy M44,Dimensity 6100+,2023,6,128,3,108,13,4950,25,6.2,90,LCD,177,Android,0,0,249
+Samsung,Galaxy M44,Dimensity 6100+,2023,6,256,3,108,13,4950,25,6.2,90,LCD,177,Android,0,0,264
+Samsung,Galaxy M44,Dimensity 6100+,2023,8,256,3,108,13,4950,25,6.2,90,LCD,177,Android,0,0,264
+Samsung,Galaxy M48,Helio G36,2024,3,32,1,13,5,5500,10,6.5,60,LCD,148,Android,1,1,94
+Samsung,Galaxy M48,Helio G36,2024,4,32,1,13,5,5500,10,6.5,60,LCD,148,Android,1,1,89
+Samsung,Galaxy M48,Helio G36,2024,4,64,1,13,5,5500,10,6.5,60,LCD,148,Android,1,1,99
+Samsung,Galaxy M52,Unisoc T606,2025,3,32,1,13,8,4950,10,6.3,90,LCD,183,Android,1,1,99
+Samsung,Galaxy M52,Unisoc T606,2025,4,64,1,13,8,4950,10,6.3,90,LCD,183,Android,1,1,109
+Google,Pixel 6,Tensor G1,2019,12,128,4,108,16,4350,80,6.2,120,OLED,203,Android,0,1,574
+Google,Pixel 6a,Tensor G1,2019,12,256,4,50,16,4600,67,6.5,120,OLED,185,Android,0,1,424
+Google,Pixel 7,Tensor G1,2021,8,256,4,64,32,5200,45,6.6,144,LCD,199,Android,1,1,504
+Google,Pixel 7,Tensor G1,2021,12,128,4,64,32,5200,45,6.6,144,LCD,199,Android,1,1,489
+Google,Pixel 8,Tensor G3,2023,8,256,4,50,16,4850,33,6.5,120,OLED,186,Android,1,1,514
+Google,Pixel 8 Pro,Tensor G3,2023,8,1024,5,50,40,4900,100,6.3,120,OLED,210,Android,1,1,1094
+Google,Pixel 8 Pro,Tensor G3,2023,12,1024,5,50,40,4900,100,6.3,120,OLED,210,Android,1,1,1054
+Google,Pixel 9,Tensor G5,2025,8,1024,5,50,12,5600,45,6.1,120,OLED,201,Android,1,1,1134
+Google,Pixel 9,Tensor G5,2025,12,512,5,50,12,5600,45,6.1,120,OLED,201,Android,1,1,1079
+Google,Pixel 9,Tensor G5,2025,16,1024,5,50,12,5600,45,6.1,120,OLED,201,Android,1,1,1244
+Google,Pixel 9a,Tensor G5,2025,12,512,4,50,32,5300,80,6.6,120,OLED,194,Android,1,1,634
+Xiaomi,Xiaomi 11,Exynos 1480,2019,8,128,4,64,16,5000,45,6.1,120,OLED,199,Android,0,1,264
+Xiaomi,Xiaomi 11,Exynos 1480,2019,8,256,4,64,16,5000,45,6.1,120,OLED,199,Android,0,1,294
+Xiaomi,Xiaomi 11,Exynos 1480,2019,8,512,4,64,16,5000,45,6.1,120,OLED,199,Android,0,1,319
+Xiaomi,Xiaomi 11 Pro,Snapdragon 8 Gen 3,2019,8,512,5,50,12,4500,80,6.4,120,OLED,204,Android,1,1,504
+Xiaomi,Xiaomi 11 Pro,Snapdragon 8 Gen 3,2019,12,256,5,50,12,4500,80,6.4,120,OLED,204,Android,1,1,489
+Xiaomi,Xiaomi 11 Pro,Snapdragon 8 Gen 3,2019,16,512,5,50,12,4500,80,6.4,120,OLED,204,Android,1,1,514
+Xiaomi,Xiaomi 11T,Exynos 1480,2019,8,512,4,108,32,4100,80,6.1,120,LCD,192,Android,1,1,349
+Xiaomi,Xiaomi 11T,Exynos 1480,2019,12,512,4,108,32,4100,80,6.1,120,LCD,192,Android,1,1,334
+Xiaomi,Xiaomi 12,Snapdragon 8 Gen 3,2020,8,256,5,50,12,5150,120,6.5,120,OLED,219,Android,1,1,439
+Xiaomi,Xiaomi 12,Snapdragon 8 Gen 3,2020,12,512,5,50,12,5150,120,6.5,120,OLED,219,Android,1,1,504
+Xiaomi,Xiaomi 12 Pro,Snapdragon 8 Gen 2,2020,16,512,5,200,40,5750,25,6.5,120,OLED,200,Android,1,1,829
+Xiaomi,Xiaomi 12T,Exynos 1480,2020,8,128,4,108,16,4850,45,6.6,144,OLED,189,Android,1,1,339
+Xiaomi,Xiaomi 13,Dimensity 9300,2022,16,512,5,48,32,4800,100,6.3,120,OLED,186,Android,1,1,754
+Xiaomi,Xiaomi 13 Pro,Dimensity 9300,2022,12,512,5,48,12,4900,45,6.6,120,OLED,226,Android,1,1,704
+Xiaomi,Xiaomi 13T,Exynos 1480,2022,8,256,4,50,16,5750,80,6.5,120,OLED,199,Android,1,1,334
+Xiaomi,Xiaomi 13T,Exynos 1480,2022,12,128,4,50,16,5750,80,6.5,120,OLED,199,Android,1,1,309
+Xiaomi,Xiaomi 13T,Exynos 1480,2022,12,256,4,50,16,5750,80,6.5,120,OLED,199,Android,1,1,359
+Xiaomi,Xiaomi 15,Snapdragon 8 Gen 3,2025,8,512,5,48,32,4950,120,6.4,120,OLED,199,Android,1,1,699
+Xiaomi,Xiaomi 15,Snapdragon 8 Gen 3,2025,12,256,5,48,32,4950,120,6.4,120,OLED,199,Android,1,1,634
+Xiaomi,Xiaomi 15,Snapdragon 8 Gen 3,2025,12,512,5,48,32,4950,120,6.4,120,OLED,199,Android,1,1,719
+Xiaomi,Xiaomi 15 Pro,Snapdragon 8 Gen 3,2025,16,1024,5,50,12,4950,120,6.5,120,OLED,184,Android,1,1,944
+Xiaomi,Xiaomi 15T,Dimensity 9300,2025,16,256,5,200,32,5450,80,6.0,120,OLED,199,Android,1,1,844
+Xiaomi,Redmi Note 9,Snapdragon 695,2019,6,128,3,108,16,5200,25,6.3,90,OLED,166,Android,1,1,189
+Xiaomi,Redmi Note 9,Snapdragon 695,2019,6,256,3,108,16,5200,25,6.3,90,OLED,166,Android,1,1,204
+Xiaomi,Redmi Note 9,Snapdragon 695,2019,8,256,3,108,16,5200,25,6.3,90,OLED,166,Android,1,1,214
+Xiaomi,Redmi Note 9 Pro,Snapdragon 7+ Gen 2,2019,8,256,4,64,16,5450,67,6.4,144,OLED,200,Android,0,1,369
+Xiaomi,Redmi Note 9 Pro,Snapdragon 7+ Gen 2,2019,8,512,4,64,16,5450,67,6.4,144,OLED,200,Android,0,1,374
+Xiaomi,Redmi Note 9 Pro+,Exynos 1480,2019,8,128,4,64,32,5300,33,6.5,144,OLED,189,Android,0,1,339
+Xiaomi,Redmi Note 9 Pro+,Exynos 1480,2019,12,512,4,64,32,5300,33,6.5,144,OLED,189,Android,0,1,384
+Xiaomi,Redmi Note 10 Pro,Snapdragon 7 Gen 3,2020,8,256,4,50,16,5250,80,6.7,144,LCD,182,Android,0,1,294
+Xiaomi,Redmi Note 10 Pro,Snapdragon 7 Gen 3,2020,12,128,4,50,16,5250,80,6.7,144,LCD,182,Android,0,1,304
+Xiaomi,Redmi Note 10 Pro,Snapdragon 7 Gen 3,2020,12,256,4,50,16,5250,80,6.7,144,LCD,182,Android,0,1,334
+Xiaomi,Redmi Note 11,Helio G85,2021,4,64,2,50,8,4700,25,6.6,120,OLED,188,Android,0,1,104
+Xiaomi,Redmi Note 11,Helio G85,2021,4,128,2,50,8,4700,25,6.6,120,OLED,188,Android,0,1,124
+Xiaomi,Redmi Note 11,Helio G85,2021,6,64,2,50,8,4700,25,6.6,120,OLED,188,Android,0,1,114
+Xiaomi,Redmi Note 11 Pro,Snapdragon 7+ Gen 2,2021,8,512,4,108,32,5450,45,6.5,120,OLED,209,Android,0,1,504
+Xiaomi,Redmi Note 11 Pro+,Dimensity 7200,2021,8,128,4,64,16,4700,45,6.5,144,OLED,181,Android,1,1,369
+Xiaomi,Redmi Note 12 Pro,Snapdragon 7 Gen 3,2022,8,256,4,108,32,4950,67,6.4,120,OLED,190,Android,1,1,469
+Xiaomi,Redmi Note 12 Pro,Snapdragon 7 Gen 3,2022,12,256,4,108,32,4950,67,6.4,120,OLED,190,Android,1,1,474
+Xiaomi,Redmi Note 12 Pro+,Exynos 1480,2022,8,256,4,64,16,5450,67,6.5,120,OLED,183,Android,1,1,434
+Xiaomi,Redmi Note 12 Pro+,Exynos 1480,2022,12,512,4,64,16,5450,67,6.5,120,OLED,183,Android,1,1,454
+Xiaomi,Redmi Note 13 Pro+,Snapdragon 7+ Gen 2,2023,8,128,4,64,32,5850,80,6.8,120,OLED,197,Android,1,1,419
+Xiaomi,Redmi Note 13 Pro+,Snapdragon 7+ Gen 2,2023,8,256,4,64,32,5850,80,6.8,120,OLED,197,Android,1,1,459
+Xiaomi,Redmi Note 14,Dimensity 6100+,2025,6,256,3,108,32,4400,25,6.3,120,OLED,164,Android,1,0,269
+Xiaomi,Redmi Note 14,Dimensity 6100+,2025,8,128,3,108,32,4400,25,6.3,120,OLED,164,Android,1,0,289
+Xiaomi,Redmi Note 14 Pro,Snapdragon 7 Gen 3,2025,12,128,4,50,32,4900,45,6.5,120,OLED,192,Android,1,1,494
+Xiaomi,Redmi Note 14 Pro,Snapdragon 7 Gen 3,2025,12,512,4,50,32,4900,45,6.5,120,OLED,192,Android,1,1,564
+Xiaomi,Redmi Note 14 Pro+,Exynos 1480,2025,8,256,4,64,16,4750,67,6.3,120,LCD,174,Android,1,1,394
+Xiaomi,Redmi Note 14 Pro+,Exynos 1480,2025,8,512,4,64,16,4750,67,6.3,120,LCD,174,Android,1,1,414
+Xiaomi,Redmi Note 14 Pro+,Exynos 1480,2025,12,512,4,64,16,4750,67,6.3,120,LCD,174,Android,1,1,404
+Xiaomi,Redmi 9,Helio G85,2019,4,64,2,50,8,4900,18,6.4,120,OLED,187,Android,1,0,124
+Xiaomi,Redmi 9,Helio G85,2019,4,128,2,50,8,4900,18,6.4,120,OLED,187,Android,1,0,129
+Xiaomi,Redmi 9,Helio G85,2019,6,64,2,50,8,4900,18,6.4,120,OLED,187,Android,1,0,124
+Xiaomi,Redmi 9C,Snapdragon 4 Gen 1,2019,3,32,1,13,8,4950,10,6.3,90,LCD,158,Android,0,0,44
+Xiaomi,Redmi 9A,Unisoc T606,2019,3,32,1,50,5,4950,18,6.2,90,LCD,186,Android,0,0,59
+Xiaomi,Redmi 10,Snapdragon 680,2020,4,64,2,50,13,5300,33,6.3,90,LCD,174,Android,1,1,144
+Xiaomi,Redmi 10,Snapdragon 680,2020,6,64,2,50,13,5300,33,6.3,90,LCD,174,Android,1,1,144
+Xiaomi,Redmi 10,Snapdragon 680,2020,6,128,2,50,13,5300,33,6.3,90,LCD,174,Android,1,1,154
+Xiaomi,Redmi 10C,Helio G36,2020,3,32,1,50,5,5150,10,6.7,60,LCD,191,Android,0,1,64
+Xiaomi,Redmi 10C,Helio G36,2020,3,64,1,50,5,5150,10,6.7,60,LCD,191,Android,0,1,69
+Xiaomi,Redmi 10C,Helio G36,2020,4,64,1,50,5,5150,10,6.7,60,LCD,191,Android,0,1,69
+Xiaomi,Redmi 10A,Helio G36,2020,3,64,1,13,5,4800,10,6.7,90,LCD,176,Android,0,1,74
+Xiaomi,Redmi 10A,Helio G36,2020,4,32,1,13,5,4800,10,6.7,90,LCD,176,Android,0,1,69
+Xiaomi,Redmi 10A,Helio G36,2020,4,64,1,13,5,4800,10,6.7,90,LCD,176,Android,0,1,79
+Xiaomi,Redmi 11,Helio G85,2021,6,128,2,50,13,5350,25,6.1,90,LCD,174,Android,0,1,104
+Xiaomi,Redmi 11C,Snapdragon 4 Gen 1,2021,3,32,1,13,5,4700,18,6.5,60,LCD,141,Android,1,1,64
+Xiaomi,Redmi 11C,Snapdragon 4 Gen 1,2021,4,32,1,13,5,4700,18,6.5,60,LCD,141,Android,1,1,69
+Xiaomi,Redmi 11A,Snapdragon 4 Gen 1,2021,3,64,1,13,5,4800,10,6.3,90,LCD,157,Android,0,0,69
+Xiaomi,Redmi 12,Snapdragon 680,2022,4,64,2,50,13,5050,18,6.5,120,LCD,155,Android,0,1,144
+Xiaomi,Redmi 12C,Snapdragon 4 Gen 1,2022,3,32,1,50,5,5350,18,6.1,60,LCD,189,Android,1,0,84
+Xiaomi,Redmi 12C,Snapdragon 4 Gen 1,2022,3,64,1,50,5,5350,18,6.1,60,LCD,189,Android,1,0,89
+Xiaomi,Redmi 12C,Snapdragon 4 Gen 1,2022,4,32,1,50,5,5350,18,6.1,60,LCD,189,Android,1,0,84
+Xiaomi,Redmi 12A,Unisoc T606,2022,3,32,1,13,5,5000,10,6.3,60,LCD,153,Android,1,0,59
+Xiaomi,Redmi 12A,Unisoc T606,2022,3,64,1,13,5,5000,10,6.3,60,LCD,153,Android,1,0,64
+Xiaomi,Redmi 12A,Unisoc T606,2022,4,32,1,13,5,5000,10,6.3,60,LCD,153,Android,1,0,54
+Xiaomi,Redmi 13,Snapdragon 680,2023,4,64,2,50,13,5800,33,6.1,90,OLED,191,Android,0,1,144
+Xiaomi,Redmi 13,Snapdragon 680,2023,6,128,2,50,13,5800,33,6.1,90,OLED,191,Android,0,1,159
+Xiaomi,Redmi 13C,Helio G36,2023,3,64,1,13,8,5150,18,6.1,60,LCD,168,Android,0,1,69
+Xiaomi,Redmi 13A,Helio G36,2023,3,32,1,50,5,5050,18,6.3,60,LCD,170,Android,0,1,69
+Xiaomi,Redmi 14,Unisoc T606,2025,3,32,1,13,8,5200,10,6.4,60,LCD,156,Android,0,0,74
+Xiaomi,Redmi 14,Unisoc T606,2025,3,64,1,13,8,5200,10,6.4,60,LCD,156,Android,0,0,79
+Xiaomi,Redmi 14,Unisoc T606,2025,4,32,1,13,8,5200,10,6.4,60,LCD,156,Android,0,0,74
+Xiaomi,Redmi 14C,Unisoc T606,2025,4,64,1,50,5,5400,18,6.6,90,LCD,162,Android,1,1,89
+OnePlus,OnePlus 8,Dimensity 7200,2019,8,128,4,50,16,4850,80,6.1,120,OLED,199,Android,1,1,389
+OnePlus,OnePlus 8,Dimensity 7200,2019,12,256,4,50,16,4850,80,6.1,120,OLED,199,Android,1,1,409
+OnePlus,OnePlus 8 Pro,Dimensity 9300,2019,8,512,5,200,40,4850,120,6.6,120,OLED,208,Android,0,1,764
+OnePlus,OnePlus 8 Pro,Dimensity 9300,2019,12,512,5,200,40,4850,120,6.6,120,OLED,208,Android,0,1,819
+OnePlus,OnePlus 8 Pro,Dimensity 9300,2019,16,1024,5,200,40,4850,120,6.6,120,OLED,208,Android,0,1,859
+OnePlus,OnePlus 8R,Snapdragon 7 Gen 3,2019,8,256,4,64,16,4500,80,6.4,144,OLED,208,Android,0,1,474
+OnePlus,OnePlus 8R,Snapdragon 7 Gen 3,2019,8,512,4,64,16,4500,80,6.4,144,OLED,208,Android,0,1,504
+OnePlus,OnePlus 9,Dimensity 7200,2020,8,128,4,50,16,5650,33,6.3,144,OLED,192,Android,1,1,389
+OnePlus,OnePlus 9R,Snapdragon 8 Gen 2,2020,8,512,5,50,12,5000,120,6.6,120,OLED,205,Android,1,1,704
+OnePlus,OnePlus 9R,Snapdragon 8 Gen 2,2020,16,512,5,50,12,5000,120,6.6,120,OLED,205,Android,1,1,759
+OnePlus,OnePlus 10,Snapdragon 8 Gen 2,2022,12,512,5,48,40,5500,25,6.1,120,OLED,200,Android,1,1,779
+OnePlus,OnePlus 10,Snapdragon 8 Gen 2,2022,12,1024,5,48,40,5500,25,6.1,120,OLED,200,Android,1,1,814
+OnePlus,OnePlus 10,Snapdragon 8 Gen 2,2022,16,512,5,48,40,5500,25,6.1,120,OLED,200,Android,1,1,729
+OnePlus,OnePlus 11,Snapdragon 7 Gen 3,2023,12,512,4,64,16,5450,80,6.7,120,OLED,189,Android,1,1,559
+OnePlus,OnePlus 11 Pro,Snapdragon 8 Gen 3,2023,12,1024,5,48,32,5000,120,6.5,120,OLED,205,Android,1,1,819
+OnePlus,OnePlus 11R,Snapdragon 8 Gen 3,2023,12,256,5,200,12,5200,45,6.5,120,OLED,204,Android,1,1,699
+OnePlus,OnePlus 11R,Snapdragon 8 Gen 3,2023,12,512,5,200,12,5200,45,6.5,120,OLED,204,Android,1,1,739
+OnePlus,OnePlus 11R,Snapdragon 8 Gen 3,2023,16,1024,5,200,12,5200,45,6.5,120,OLED,204,Android,1,1,829
+OnePlus,OnePlus 12,Exynos 1480,2025,8,512,4,64,16,4900,33,6.5,144,LCD,204,Android,1,1,499
+OnePlus,OnePlus 12R,Dimensity 9300,2025,8,256,5,48,32,5000,100,6.4,120,OLED,210,Android,1,1,659
+OnePlus,OnePlus 12R,Dimensity 9300,2025,8,512,5,48,32,5000,100,6.4,120,OLED,210,Android,1,1,709
+OnePlus,OnePlus 12R,Dimensity 9300,2025,16,512,5,48,32,5000,100,6.4,120,OLED,210,Android,1,1,734
+OnePlus,OnePlus Nord 2,Snapdragon 695,2019,6,128,3,64,13,5900,33,6.5,120,LCD,178,Android,0,1,254
+OnePlus,OnePlus Nord 2,Snapdragon 695,2019,6,256,3,64,13,5900,33,6.5,120,LCD,178,Android,0,1,274
+OnePlus,OnePlus Nord 2,Snapdragon 695,2019,8,256,3,64,13,5900,33,6.5,120,LCD,178,Android,0,1,274
+OnePlus,OnePlus Nord 2 CE,Helio G99,2019,4,128,2,50,8,4750,33,6.0,90,LCD,180,Android,1,1,134
+OnePlus,OnePlus Nord 3,Snapdragon 7+ Gen 2,2022,8,128,4,108,32,4400,67,6.5,144,OLED,187,Android,1,1,384
+OnePlus,OnePlus Nord 3,Snapdragon 7+ Gen 2,2022,12,128,4,108,32,4400,67,6.5,144,OLED,187,Android,1,1,384
+OnePlus,OnePlus Nord 3,Snapdragon 7+ Gen 2,2022,12,256,4,108,32,4400,67,6.5,144,OLED,187,Android,1,1,449
+OnePlus,OnePlus Nord 3 CE,Dimensity 6100+,2022,8,128,3,50,13,5000,45,6.4,90,OLED,199,Android,1,0,239
+OnePlus,OnePlus Nord 4 CE,Snapdragon 680,2025,4,128,2,50,13,4750,25,6.2,90,LCD,179,Android,1,1,199
+Oppo,Reno 6,Exynos 1280,2019,6,128,3,50,32,5100,45,6.3,120,OLED,191,Android,1,1,209
+Oppo,Reno 6,Exynos 1280,2019,8,128,3,50,32,5100,45,6.3,120,OLED,191,Android,1,1,219
+Oppo,Reno 6 Pro,Exynos 1480,2019,8,128,4,108,16,4800,33,6.6,144,OLED,186,Android,1,1,409
+Oppo,Reno 6 Pro,Exynos 1480,2019,8,256,4,108,16,4800,33,6.6,144,OLED,186,Android,1,1,439
+Oppo,Reno 6 Pro,Exynos 1480,2019,12,512,4,108,16,4800,33,6.6,144,OLED,186,Android,1,1,474
+Oppo,Reno 7,Dimensity 7200,2020,8,128,4,108,16,5050,67,6.1,120,OLED,188,Android,1,1,379
+Oppo,Reno 7,Dimensity 7200,2020,8,256,4,108,16,5050,67,6.1,120,OLED,188,Android,1,1,434
+Oppo,Reno 7,Dimensity 7200,2020,8,512,4,108,16,5050,67,6.1,120,OLED,188,Android,1,1,484
+Oppo,Reno 8,Snapdragon 695,2021,6,128,3,64,32,4900,25,6.6,90,OLED,188,Android,1,1,254
+Oppo,Reno 8,Snapdragon 695,2021,6,256,3,64,32,4900,25,6.6,90,OLED,188,Android,1,1,269
+Oppo,Reno 9,Snapdragon 695,2022,6,256,3,50,16,5050,33,6.4,120,OLED,194,Android,1,1,259
+Oppo,Reno 9 Pro,Snapdragon 7 Gen 3,2022,8,256,4,64,16,4700,33,6.3,120,OLED,196,Android,1,1,404
+Oppo,Reno 10,Snapdragon 7 Gen 3,2023,8,128,4,64,32,4950,33,6.1,120,LCD,202,Android,0,1,364
+Oppo,Reno 10,Snapdragon 7 Gen 3,2023,8,512,4,64,32,4950,33,6.1,120,LCD,202,Android,0,1,439
+Oppo,Reno 10,Snapdragon 7 Gen 3,2023,12,128,4,64,32,4950,33,6.1,120,LCD,202,Android,0,1,394
+Oppo,Reno 10 Pro,Dimensity 9300,2023,8,512,5,50,12,4500,25,6.3,120,OLED,182,Android,1,1,704
+Oppo,Reno 10 Pro,Dimensity 9300,2023,16,256,5,50,12,4500,25,6.3,120,OLED,182,Android,1,1,719
+Oppo,Reno 11 Pro,Dimensity 9300,2024,8,1024,5,200,40,5350,45,6.4,120,OLED,217,Android,1,1,794
+Oppo,Reno 12,Snapdragon 7 Gen 3,2025,12,512,4,64,16,5000,67,6.2,120,OLED,190,Android,1,1,514
+Oppo,Reno 12 Pro,Snapdragon 8 Gen 3,2025,12,512,5,48,40,5150,80,6.6,120,OLED,192,Android,1,1,779
+Oppo,Oppo A16,Snapdragon 680,2019,4,128,2,50,8,5000,33,6.5,90,LCD,169,Android,0,1,134
+Oppo,Oppo A16,Snapdragon 680,2019,6,128,2,50,8,5000,33,6.5,90,LCD,169,Android,0,1,134
+Oppo,Oppo A28,Helio G36,2020,3,32,1,50,8,5100,18,6.1,60,LCD,150,Android,0,1,84
+Oppo,Oppo A28,Helio G36,2020,4,32,1,50,8,5100,18,6.1,60,LCD,150,Android,0,1,89
+Oppo,Oppo A28,Helio G36,2020,4,64,1,50,8,5100,18,6.1,60,LCD,150,Android,0,1,89
+Oppo,Oppo A40,Helio G85,2021,4,128,2,50,13,4650,25,6.7,90,OLED,190,Android,1,1,124
+Oppo,Oppo A40,Helio G85,2021,6,64,2,50,13,4650,25,6.7,90,OLED,190,Android,1,1,119
+Oppo,Oppo A40,Helio G85,2021,6,128,2,50,13,4650,25,6.7,90,OLED,190,Android,1,1,124
+Oppo,Oppo A46,Exynos 1280,2022,8,256,3,108,32,5100,25,6.4,90,LCD,189,Android,1,1,234
+Oppo,Oppo A58,Unisoc T606,2023,3,64,1,50,5,4800,10,6.1,60,LCD,187,Android,1,0,104
+Oppo,Oppo A58,Unisoc T606,2023,4,64,1,50,5,4800,10,6.1,60,LCD,187,Android,1,0,104
+Oppo,Oppo A64,Snapdragon 680,2023,4,64,2,50,8,4850,25,6.5,120,LCD,162,Android,1,0,139
+Oppo,Oppo A64,Snapdragon 680,2023,6,64,2,50,8,4850,25,6.5,120,LCD,162,Android,1,0,134
+Oppo,Oppo A70,Helio G36,2024,3,64,1,50,5,5650,10,6.0,90,LCD,175,Android,1,0,94
+Oppo,Oppo A70,Helio G36,2024,4,32,1,50,5,5650,10,6.0,90,LCD,175,Android,1,0,84
+Oppo,Oppo A70,Helio G36,2024,4,64,1,50,5,5650,10,6.0,90,LCD,175,Android,1,0,99
+Oppo,Oppo A76,Snapdragon 4 Gen 1,2025,4,64,1,50,5,5250,10,6.7,60,LCD,188,Android,1,0,94
+Vivo,Vivo V21,Snapdragon 7 Gen 3,2019,12,256,4,64,32,4650,45,6.5,144,OLED,185,Android,1,1,324
+Vivo,Vivo V21e,Helio G99,2019,4,128,2,50,13,5350,18,6.3,90,LCD,185,Android,1,1,119
+Vivo,Vivo V21e,Helio G99,2019,6,64,2,50,13,5350,18,6.3,90,LCD,185,Android,1,1,119
+Vivo,Vivo V21e,Helio G99,2019,6,128,2,50,13,5350,18,6.3,90,LCD,185,Android,1,1,124
+Vivo,Vivo V22e,Helio G99,2019,4,64,2,50,8,4150,18,6.2,90,LCD,189,Android,0,0,109
+Vivo,Vivo V23e,Helio G85,2020,6,64,2,48,8,4700,18,6.4,90,LCD,180,Android,0,0,119
+Vivo,Vivo V24e,Helio G85,2021,4,128,2,50,8,5350,18,6.5,90,LCD,174,Android,1,0,139
+Vivo,Vivo V26,Dimensity 6100+,2022,6,128,3,50,16,4650,45,6.1,120,LCD,197,Android,1,0,224
+Vivo,Vivo V26,Dimensity 6100+,2022,8,256,3,50,16,4650,45,6.1,120,LCD,197,Android,1,0,264
+Vivo,Vivo V27,Snapdragon 7+ Gen 2,2023,8,128,4,64,16,5600,80,6.5,120,OLED,201,Android,1,1,374
+Vivo,Vivo V27,Snapdragon 7+ Gen 2,2023,12,128,4,64,16,5600,80,6.5,120,OLED,201,Android,1,1,409
+Vivo,Vivo V28,Snapdragon 695,2023,6,128,3,50,32,5300,45,6.7,90,LCD,175,Android,1,1,219
+Vivo,Vivo V28,Snapdragon 695,2023,8,128,3,50,32,5300,45,6.7,90,LCD,175,Android,1,1,219
+Vivo,Vivo V28e,Dimensity 6100+,2023,6,256,3,64,32,4950,33,6.5,90,LCD,199,Android,1,0,289
+Vivo,Vivo V28e,Dimensity 6100+,2023,8,128,3,64,32,4950,33,6.5,90,LCD,199,Android,1,0,244
+Vivo,Vivo V30,Dimensity 7200,2025,8,512,4,108,32,5450,45,6.6,120,OLED,187,Android,1,1,669
+Vivo,Vivo V30e,Exynos 1280,2025,6,128,3,50,16,5200,45,6.6,90,LCD,187,Android,1,0,214
+Vivo,Vivo V30e,Exynos 1280,2025,6,256,3,50,16,5200,45,6.6,90,LCD,187,Android,1,0,239
+Vivo,Vivo Y15,Helio G99,2019,4,64,2,50,8,5150,33,6.7,120,LCD,168,Android,0,0,104
+Vivo,Vivo Y15s,Snapdragon 4 Gen 1,2019,3,32,1,13,5,5000,18,6.6,60,LCD,180,Android,0,1,64
+Vivo,Vivo Y15s,Snapdragon 4 Gen 1,2019,3,64,1,13,5,5000,18,6.6,60,LCD,180,Android,0,1,69
+Vivo,Vivo Y15s,Snapdragon 4 Gen 1,2019,4,64,1,13,5,5000,18,6.6,60,LCD,180,Android,0,1,74
+Vivo,Vivo Y18,Helio G85,2019,4,64,2,50,8,4500,18,6.5,90,LCD,177,Android,0,0,104
+Vivo,Vivo Y18,Helio G85,2019,6,64,2,50,8,4500,18,6.5,90,LCD,177,Android,0,0,114
+Vivo,Vivo Y18s,Helio G36,2019,3,64,1,13,5,5050,10,6.2,60,LCD,166,Android,0,1,59
+Vivo,Vivo Y18s,Helio G36,2019,4,64,1,13,5,5050,10,6.2,60,LCD,166,Android,0,1,54
+Vivo,Vivo Y21,Helio G85,2020,4,128,2,48,8,4650,25,6.1,90,LCD,151,Android,0,0,109
+Vivo,Vivo Y21s,Unisoc T606,2020,4,32,1,13,8,5300,10,6.2,90,LCD,176,Android,0,1,59
+Vivo,Vivo Y21s,Unisoc T606,2020,4,64,1,13,8,5300,10,6.2,90,LCD,176,Android,0,1,69
+Vivo,Vivo Y24s,Unisoc T606,2021,3,64,1,13,8,5050,18,6.3,60,LCD,172,Android,0,1,69
+Vivo,Vivo Y24s,Unisoc T606,2021,4,32,1,13,8,5050,18,6.3,60,LCD,172,Android,0,1,69
+Vivo,Vivo Y24s,Unisoc T606,2021,4,64,1,13,8,5050,18,6.3,60,LCD,172,Android,0,1,74
+Vivo,Vivo Y27,Helio G99,2022,6,64,2,50,13,4750,25,6.1,120,OLED,173,Android,1,1,189
+Vivo,Vivo Y27s,Helio G36,2022,3,64,1,13,5,5350,10,6.6,90,LCD,168,Android,0,0,54
+Vivo,Vivo Y27s,Helio G36,2022,4,32,1,13,5,5350,10,6.6,90,LCD,168,Android,0,0,49
+Vivo,Vivo Y27s,Helio G36,2022,4,64,1,13,5,5350,10,6.6,90,LCD,168,Android,0,0,59
+Vivo,Vivo Y30,Helio G85,2022,4,64,2,50,8,5300,18,6.6,120,LCD,189,Android,0,0,114
+Vivo,Vivo Y30,Helio G85,2022,4,128,2,50,8,5300,18,6.6,120,LCD,189,Android,0,0,119
+Vivo,Vivo Y30,Helio G85,2022,6,128,2,50,8,5300,18,6.6,120,LCD,189,Android,0,0,124
+Vivo,Vivo Y30s,Helio G36,2022,3,32,1,13,8,4950,18,6.6,90,OLED,165,Android,0,1,79
+Vivo,Vivo Y30s,Helio G36,2022,4,64,1,13,8,4950,18,6.6,90,OLED,165,Android,0,1,89
+Vivo,Vivo Y33,Helio G99,2023,4,64,2,50,8,4950,18,6.3,90,LCD,178,Android,0,1,99
+Vivo,Vivo Y33,Helio G99,2023,6,64,2,50,8,4950,18,6.3,90,LCD,178,Android,0,1,104
+Vivo,Vivo Y33,Helio G99,2023,6,128,2,50,8,4950,18,6.3,90,LCD,178,Android,0,1,114
+Vivo,Vivo Y36s,Helio G36,2024,3,64,1,13,8,4400,10,6.6,60,LCD,175,Android,1,1,69
+Vivo,Vivo Y36s,Helio G36,2024,4,32,1,13,8,4400,10,6.6,60,LCD,175,Android,1,1,64
+Vivo,Vivo Y39,Snapdragon 680,2025,4,64,2,48,13,5000,25,6.0,90,OLED,158,Android,1,0,139
+Vivo,Vivo Y39,Snapdragon 680,2025,6,128,2,48,13,5000,25,6.0,90,OLED,158,Android,1,0,154
+Vivo,Vivo Y39s,Unisoc T606,2025,3,32,1,13,5,4950,10,6.2,90,LCD,166,Android,0,0,64
+Vivo,Vivo Y39s,Unisoc T606,2025,4,32,1,13,5,4950,10,6.2,90,LCD,166,Android,0,0,69
+Realme,Realme 8,Dimensity 7200,2019,8,128,4,50,32,4550,67,6.2,120,OLED,186,Android,1,1,339
+Realme,Realme 8 Pro,Dimensity 9300,2019,8,256,5,200,32,4750,100,6.7,120,OLED,183,Android,1,1,459
+Realme,Realme 8 Pro,Dimensity 9300,2019,8,1024,5,200,32,4750,100,6.7,120,OLED,183,Android,1,1,549
+Realme,Realme 8 Pro,Dimensity 9300,2019,12,512,5,200,32,4750,100,6.7,120,OLED,183,Android,1,1,509
+Realme,Realme 9 Pro,Snapdragon 8 Gen 3,2020,8,512,5,200,32,4850,45,6.5,120,OLED,193,Android,0,1,529
+Realme,Realme 9 Pro+,Exynos 1480,2020,8,512,4,64,16,5150,45,6.3,144,OLED,188,Android,0,1,329
+Realme,Realme 9 Pro+,Exynos 1480,2020,12,128,4,64,16,5150,45,6.3,144,OLED,188,Android,0,1,304
+Realme,Realme 9 Pro+,Exynos 1480,2020,12,256,4,64,16,5150,45,6.3,144,OLED,188,Android,0,1,324
+Realme,Realme 10 Pro,Snapdragon 8 Gen 3,2022,12,256,5,50,12,5250,100,6.3,120,OLED,210,Android,1,1,544
+Realme,Realme 10 Pro,Snapdragon 8 Gen 3,2022,16,256,5,50,12,5250,100,6.3,120,OLED,210,Android,1,1,574
+Realme,Realme 10 Pro,Snapdragon 8 Gen 3,2022,16,1024,5,50,12,5250,100,6.3,120,OLED,210,Android,1,1,649
+Realme,Realme 11,Dimensity 6100+,2023,6,128,3,50,13,4900,45,6.4,120,OLED,194,Android,1,1,279
+Realme,Realme 11,Dimensity 6100+,2023,8,128,3,50,13,4900,45,6.4,120,OLED,194,Android,1,1,274
+Realme,Realme 11 Pro,Exynos 1280,2023,6,256,3,50,32,5050,45,6.1,120,LCD,188,Android,1,0,209
+Realme,Realme 11 Pro,Exynos 1280,2023,8,128,3,50,32,5050,45,6.1,120,LCD,188,Android,1,0,199
+Realme,Realme 11 Pro,Exynos 1280,2023,8,256,3,50,32,5050,45,6.1,120,LCD,188,Android,1,0,209
+Realme,Realme 11 Pro+,Exynos 1280,2023,6,128,3,64,16,5050,45,6.2,90,OLED,175,Android,1,1,194
+Realme,Realme 11 Pro+,Exynos 1280,2023,8,128,3,64,16,5050,45,6.2,90,OLED,175,Android,1,1,194
+Realme,Realme 11 Pro+,Exynos 1280,2023,8,256,3,64,16,5050,45,6.2,90,OLED,175,Android,1,1,219
+Realme,Realme 12 Pro+,Snapdragon 8 Gen 3,2025,8,1024,5,50,40,5100,100,6.3,120,OLED,216,Android,1,1,669
+Realme,Realme 12 Pro+,Snapdragon 8 Gen 3,2025,12,1024,5,50,40,5100,100,6.3,120,OLED,216,Android,1,1,654
+Realme,Realme 12 Pro+,Snapdragon 8 Gen 3,2025,16,256,5,50,40,5100,100,6.3,120,OLED,216,Android,1,1,594
+Realme,Realme C21,Unisoc T606,2019,3,64,1,13,5,4700,10,6.6,90,LCD,163,Android,1,0,54
+Realme,Realme C21,Unisoc T606,2019,4,32,1,13,5,4700,10,6.6,90,LCD,163,Android,1,0,49
+Realme,Realme C21,Unisoc T606,2019,4,64,1,13,5,4700,10,6.6,90,LCD,163,Android,1,0,59
+Realme,Realme C25,Unisoc T606,2019,3,32,1,13,5,4450,10,6.3,90,LCD,151,Android,0,0,59
+Realme,Realme C25,Unisoc T606,2019,4,32,1,13,5,4450,10,6.3,90,LCD,151,Android,0,0,59
+Realme,Realme C25,Unisoc T606,2019,4,64,1,13,5,4450,10,6.3,90,LCD,151,Android,0,0,69
+Realme,Realme C29,Snapdragon 4 Gen 1,2020,3,32,1,50,8,4850,10,6.4,90,LCD,185,Android,0,0,49
+Realme,Realme C29,Snapdragon 4 Gen 1,2020,4,32,1,50,8,4850,10,6.4,90,LCD,185,Android,0,0,54
+Realme,Realme C33,Snapdragon 4 Gen 1,2020,3,32,1,50,5,5500,18,6.4,60,LCD,166,Android,0,0,84
+Realme,Realme C33,Snapdragon 4 Gen 1,2020,3,64,1,50,5,5500,18,6.4,60,LCD,166,Android,0,0,94
+Realme,Realme C33,Snapdragon 4 Gen 1,2020,4,32,1,50,5,5500,18,6.4,60,LCD,166,Android,0,0,79
+Realme,Realme C37,Unisoc T606,2021,3,64,1,13,5,4850,10,6.4,90,LCD,177,Android,1,0,59
+Realme,Realme C37,Unisoc T606,2021,4,32,1,13,5,4850,10,6.4,90,LCD,177,Android,1,0,59
+Realme,Realme C41,Snapdragon 4 Gen 1,2021,3,64,1,50,5,4950,10,6.6,90,LCD,152,Android,0,1,64
+Realme,Realme C41,Snapdragon 4 Gen 1,2021,4,32,1,50,5,4950,10,6.6,90,LCD,152,Android,0,1,59
+Realme,Realme C45,Snapdragon 4 Gen 1,2022,3,32,1,13,5,5400,10,6.2,90,LCD,179,Android,1,1,64
+Realme,Realme C45,Snapdragon 4 Gen 1,2022,4,32,1,13,5,5400,10,6.2,90,LCD,179,Android,1,1,74
+Realme,Realme C53,Helio G36,2023,3,32,1,13,5,5300,18,6.1,90,OLED,157,Android,1,0,64
+Realme,Realme C53,Helio G36,2023,3,64,1,13,5,5300,18,6.1,90,OLED,157,Android,1,0,64
+Realme,Realme C57,Snapdragon 4 Gen 1,2023,3,32,1,13,5,4900,10,6.1,90,LCD,162,Android,1,0,84
+Realme,Realme C57,Snapdragon 4 Gen 1,2023,4,32,1,13,5,4900,10,6.1,90,LCD,162,Android,1,0,89
+Realme,Realme C61,Snapdragon 4 Gen 1,2024,3,32,1,50,8,4800,10,6.1,90,LCD,174,Android,1,0,74
+Realme,Realme C61,Snapdragon 4 Gen 1,2024,4,32,1,50,8,4800,10,6.1,90,LCD,174,Android,1,0,74
+Realme,Realme C61,Snapdragon 4 Gen 1,2024,4,64,1,50,8,4800,10,6.1,90,LCD,174,Android,1,0,74
+Realme,Realme C65,Snapdragon 4 Gen 1,2025,3,32,1,50,8,5050,18,6.6,60,OLED,179,Android,1,0,99
+Huawei,Huawei P30,Exynos 1480,2019,8,256,4,64,16,4550,45,6.5,144,OLED,171,Android,0,1,404
+Huawei,Huawei P30,Exynos 1480,2019,8,512,4,64,16,4550,45,6.5,144,OLED,171,Android,0,1,424
+Huawei,Huawei P30,Exynos 1480,2019,12,512,4,64,16,4550,45,6.5,144,OLED,171,Android,0,1,439
+Huawei,Huawei P30 Pro,Snapdragon 8 Gen 3,2019,8,512,5,200,40,5700,80,6.5,120,OLED,210,Android,1,1,734
+Huawei,Huawei P30 Pro,Snapdragon 8 Gen 3,2019,16,512,5,200,40,5700,80,6.5,120,OLED,210,Android,1,1,779
+Huawei,Huawei P40,Snapdragon 8 Gen 3,2020,8,256,5,50,32,4950,45,6.7,120,OLED,194,Android,1,1,449
+Huawei,Huawei P40,Snapdragon 8 Gen 3,2020,8,512,5,50,32,4950,45,6.7,120,OLED,194,Android,1,1,509
+Huawei,Huawei P40,Snapdragon 8 Gen 3,2020,12,256,5,50,32,4950,45,6.7,120,OLED,194,Android,1,1,474
+Huawei,Huawei P40 Pro,Snapdragon 8 Gen 3,2020,8,512,5,50,12,5400,80,6.3,120,OLED,189,Android,1,1,824
+Huawei,Huawei P40 Pro,Snapdragon 8 Gen 3,2020,12,512,5,50,12,5400,80,6.3,120,OLED,189,Android,1,1,824
+Huawei,Huawei P50 Pro,Snapdragon 8 Gen 3,2022,16,1024,5,200,32,5400,120,6.6,120,OLED,195,Android,1,1,1179
+Huawei,Huawei P60,Snapdragon 8 Gen 3,2023,8,512,5,48,40,4450,100,6.5,120,OLED,208,Android,1,1,864
+Huawei,Huawei P60,Snapdragon 8 Gen 3,2023,12,256,5,48,40,4450,100,6.5,120,OLED,208,Android,1,1,859
+Huawei,Huawei P60 Pro,Snapdragon 8 Gen 3,2023,12,256,5,50,40,5050,120,6.0,120,OLED,201,Android,1,1,689
+Huawei,Huawei P70,Snapdragon 7 Gen 3,2025,8,256,4,108,32,5200,67,6.7,120,OLED,170,Android,1,0,539
+Huawei,Huawei P70,Snapdragon 7 Gen 3,2025,12,128,4,108,32,5200,67,6.7,120,OLED,170,Android,1,0,499
+Huawei,Huawei P70,Snapdragon 7 Gen 3,2025,12,256,4,108,32,5200,67,6.7,120,OLED,170,Android,1,0,569
+Huawei,Huawei Nova 8i,Dimensity 6100+,2019,6,256,3,64,32,5100,25,6.2,120,OLED,179,Android,1,0,249
+Huawei,Huawei Nova 8i,Dimensity 6100+,2019,8,128,3,64,32,5100,25,6.2,120,OLED,179,Android,1,0,239
+Huawei,Huawei Nova 8i,Dimensity 6100+,2019,8,256,3,64,32,5100,25,6.2,120,OLED,179,Android,1,0,259
+Huawei,Huawei Nova 9,Snapdragon 695,2020,6,128,3,64,13,4900,33,6.4,90,OLED,177,Android,1,1,224
+Huawei,Huawei Nova 9,Snapdragon 695,2020,6,256,3,64,13,4900,33,6.4,90,OLED,177,Android,1,1,249
+Huawei,Huawei Nova 9i,Helio G99,2020,4,128,2,50,13,4950,25,6.6,90,LCD,170,Android,0,0,154
+Huawei,Huawei Nova 10,Helio G99,2022,4,128,2,48,13,4900,33,6.6,90,LCD,195,Android,1,0,129
+Huawei,Huawei Nova 10i,Exynos 1280,2022,6,128,3,50,16,4850,33,6.2,120,OLED,179,Android,1,1,274
+Huawei,Huawei Nova 10i,Exynos 1280,2022,8,128,3,50,16,4850,33,6.2,120,OLED,179,Android,1,1,284
+Huawei,Huawei Nova 10i,Exynos 1280,2022,8,256,3,50,16,4850,33,6.2,120,OLED,179,Android,1,1,289
+Huawei,Huawei Nova 11,Helio G99,2023,4,64,2,50,13,4800,25,6.0,90,LCD,176,Android,1,1,169
+Huawei,Huawei Nova 11,Helio G99,2023,6,128,2,50,13,4800,25,6.0,90,LCD,176,Android,1,1,184
+Huawei,Huawei Nova 11i,Helio G99,2023,4,128,2,50,13,5150,33,6.4,90,LCD,168,Android,1,0,139
+Huawei,Huawei Nova 11i,Helio G99,2023,6,64,2,50,13,5150,33,6.4,90,LCD,168,Android,1,0,124
+Huawei,Huawei Nova 11i,Helio G99,2023,6,128,2,50,13,5150,33,6.4,90,LCD,168,Android,1,0,144
+Huawei,Huawei Nova 12,Exynos 1280,2025,6,256,3,50,32,5300,25,6.1,120,OLED,176,Android,1,1,299
+Huawei,Huawei Nova 12i,Snapdragon 695,2025,6,256,3,50,32,5350,25,6.2,90,LCD,204,Android,1,1,319
+Motorola,Moto G10,Helio G99,2019,6,64,2,50,8,5400,25,6.7,90,LCD,163,Android,0,0,84
+Motorola,Moto G10 Power,Snapdragon 680,2019,4,64,2,48,13,5400,18,6.2,90,OLED,169,Android,1,1,139
+Motorola,Moto G10 Power,Snapdragon 680,2019,4,128,2,48,13,5400,18,6.2,90,OLED,169,Android,1,1,149
+Motorola,Moto G10 Power,Snapdragon 680,2019,6,64,2,48,13,5400,18,6.2,90,OLED,169,Android,1,1,139
+Motorola,Moto G16,Helio G36,2019,3,32,1,13,5,5350,10,6.6,90,LCD,160,Android,0,1,54
+Motorola,Moto G16,Helio G36,2019,3,64,1,13,5,5350,10,6.6,90,LCD,160,Android,0,1,64
+Motorola,Moto G16,Helio G36,2019,4,32,1,13,5,5350,10,6.6,90,LCD,160,Android,0,1,54
+Motorola,Moto G16 Power,Helio G85,2019,4,128,2,50,8,5000,18,6.2,120,LCD,197,Android,1,0,104
+Motorola,Moto G22,Snapdragon 680,2019,6,64,2,50,8,5300,25,6.2,120,LCD,191,Android,0,1,94
+Motorola,Moto G22 Power,Snapdragon 680,2019,4,64,2,50,13,4450,25,6.5,120,OLED,167,Android,1,0,99
+Motorola,Moto G22 Power,Snapdragon 680,2019,6,64,2,50,13,4450,25,6.5,120,OLED,167,Android,1,0,94
+Motorola,Moto G22 Power,Snapdragon 680,2019,6,128,2,50,13,4450,25,6.5,120,OLED,167,Android,1,0,104
+Motorola,Moto G28 Power,Helio G85,2020,4,64,2,48,8,4550,18,6.0,90,LCD,179,Android,0,0,94
+Motorola,Moto G34,Helio G85,2020,4,128,2,48,13,5200,33,6.4,90,LCD,196,Android,0,1,149
+Motorola,Moto G34,Helio G85,2020,6,64,2,48,13,5200,33,6.4,90,LCD,196,Android,0,1,139
+Motorola,Moto G40 Power,Snapdragon 4 Gen 1,2021,3,32,1,13,8,4700,18,6.7,90,LCD,181,Android,0,1,59
+Motorola,Moto G40 Power,Snapdragon 4 Gen 1,2021,4,32,1,13,8,4700,18,6.7,90,LCD,181,Android,0,1,59
+Motorola,Moto G40 Power,Snapdragon 4 Gen 1,2021,4,64,1,13,8,4700,18,6.7,90,LCD,181,Android,0,1,69
+Motorola,Moto G46,Exynos 1280,2021,8,128,3,64,32,4800,33,6.7,120,LCD,186,Android,1,1,164
+Motorola,Moto G46,Exynos 1280,2021,8,256,3,64,32,4800,33,6.7,120,LCD,186,Android,1,1,174
+Motorola,Moto G46 Power,Helio G99,2021,4,64,2,48,13,4700,33,6.0,90,LCD,182,Android,1,0,104
+Motorola,Moto G46 Power,Helio G99,2021,4,128,2,48,13,4700,33,6.0,90,LCD,182,Android,1,0,109
+Motorola,Moto G46 Power,Helio G99,2021,6,128,2,48,13,4700,33,6.0,90,LCD,182,Android,1,0,124
+Motorola,Moto G52,Unisoc T606,2022,3,64,1,50,5,5000,18,6.1,60,LCD,177,Android,0,1,69
+Motorola,Moto G52,Unisoc T606,2022,4,32,1,50,5,5000,18,6.1,60,LCD,177,Android,0,1,69
+Motorola,Moto G52,Unisoc T606,2022,4,64,1,50,5,5000,18,6.1,60,LCD,177,Android,0,1,74
+Motorola,Moto G52 Power,Unisoc T606,2022,3,32,1,50,8,4000,18,6.3,90,LCD,170,Android,0,1,64
+Motorola,Moto G52 Power,Unisoc T606,2022,3,64,1,50,8,4000,18,6.3,90,LCD,170,Android,0,1,69
+Motorola,Moto G52 Power,Unisoc T606,2022,4,32,1,50,8,4000,18,6.3,90,LCD,170,Android,0,1,64
+Motorola,Moto G58 Power,Snapdragon 4 Gen 1,2022,3,32,1,13,5,4850,10,6.2,90,LCD,158,Android,1,1,59
+Motorola,Moto G58 Power,Snapdragon 4 Gen 1,2022,3,64,1,13,5,4850,10,6.2,90,LCD,158,Android,1,1,64
+Motorola,Moto G58 Power,Snapdragon 4 Gen 1,2022,4,64,1,13,5,4850,10,6.2,90,LCD,158,Android,1,1,64
+Motorola,Moto G64,Helio G85,2023,4,64,2,50,8,5550,18,6.5,90,LCD,174,Android,0,1,134
+Motorola,Moto G64,Helio G85,2023,6,64,2,50,8,5550,18,6.5,90,LCD,174,Android,0,1,124
+Motorola,Moto G64,Helio G85,2023,6,128,2,50,8,5550,18,6.5,90,LCD,174,Android,0,1,144
+Motorola,Moto G64 Power,Unisoc T606,2023,3,32,1,50,5,4550,10,6.2,90,LCD,179,Android,1,1,69
+Motorola,Moto G64 Power,Unisoc T606,2023,4,64,1,50,5,4550,10,6.2,90,LCD,179,Android,1,1,74
+Motorola,Moto G70,Exynos 1280,2023,6,128,3,50,32,5300,45,6.5,90,LCD,182,Android,1,0,229
+Motorola,Moto G70,Exynos 1280,2023,6,256,3,50,32,5300,45,6.5,90,LCD,182,Android,1,0,259
+Motorola,Moto G70,Exynos 1280,2023,8,128,3,50,32,5300,45,6.5,90,LCD,182,Android,1,0,239
+Motorola,Moto G70 Power,Unisoc T606,2023,3,32,1,50,8,5150,10,6.1,90,LCD,164,Android,1,0,74
+Motorola,Moto G70 Power,Unisoc T606,2023,3,64,1,50,8,5150,10,6.1,90,LCD,164,Android,1,0,84
+Motorola,Moto G70 Power,Unisoc T606,2023,4,64,1,50,8,5150,10,6.1,90,LCD,164,Android,1,0,89
+Motorola,Moto G76 Power,Snapdragon 680,2024,4,128,2,50,8,5100,18,6.1,90,OLED,189,Android,1,0,144
+Motorola,Moto G76 Power,Snapdragon 680,2024,6,64,2,50,8,5100,18,6.1,90,OLED,189,Android,1,0,139
+Motorola,Moto G76 Power,Snapdragon 680,2024,6,128,2,50,8,5100,18,6.1,90,OLED,189,Android,1,0,149
+Motorola,Moto G82 Power,Helio G85,2024,4,64,2,48,8,4800,18,6.0,90,LCD,170,Android,0,1,144
+Motorola,Moto G88 Power,Helio G99,2025,4,64,2,50,13,4900,33,6.4,120,LCD,168,Android,1,1,164
+Motorola,Motorola Edge 20,Snapdragon 695,2019,8,128,3,64,16,5000,45,6.0,120,LCD,183,Android,1,1,194
+Motorola,Motorola Edge 20 Pro,Snapdragon 7+ Gen 2,2019,12,128,4,64,16,5250,67,6.1,144,OLED,195,Android,0,1,249
+Motorola,Motorola Edge 30,Exynos 1480,2021,8,256,4,108,32,5250,45,6.2,120,OLED,185,Android,1,1,389
+Motorola,Motorola Edge 30 Pro,Dimensity 9300,2021,16,1024,5,50,40,5000,25,6.2,120,OLED,201,Android,1,1,604
+Motorola,Motorola Edge 40,Exynos 1280,2023,6,256,3,108,13,4900,33,6.3,120,LCD,195,Android,1,1,299
+Motorola,Motorola Edge 40,Exynos 1280,2023,8,128,3,108,13,4900,33,6.3,120,LCD,195,Android,1,1,289
+Motorola,Motorola Edge 40,Exynos 1280,2023,8,256,3,108,13,4900,33,6.3,120,LCD,195,Android,1,1,319
+Motorola,Motorola Edge 40 Pro,Snapdragon 7+ Gen 2,2023,8,512,4,64,16,5150,45,6.6,144,OLED,193,Android,1,1,424
+Motorola,Motorola Edge 50,Dimensity 6100+,2025,6,256,3,64,32,5150,25,6.5,90,OLED,188,Android,1,0,359
+Honor,Honor 50,Snapdragon 7+ Gen 2,2019,12,128,4,108,32,4700,80,6.1,120,OLED,186,Android,0,1,409
+Honor,Honor 50,Snapdragon 7+ Gen 2,2019,12,512,4,108,32,4700,80,6.1,120,OLED,186,Android,0,1,494
+Honor,Honor 50 Pro,Snapdragon 7+ Gen 2,2019,8,128,4,108,16,5350,67,6.5,120,OLED,181,Android,1,0,324
+Honor,Honor 50 Pro,Snapdragon 7+ Gen 2,2019,8,512,4,108,16,5350,67,6.5,120,OLED,181,Android,1,0,384
+Honor,Honor 50 Pro,Snapdragon 7+ Gen 2,2019,12,256,4,108,16,5350,67,6.5,120,OLED,181,Android,1,0,369
+Honor,Honor 50 Lite,Helio G85,2019,6,128,2,48,8,5100,18,6.0,120,LCD,190,Android,0,1,139
+Honor,Honor 60,Exynos 1280,2020,6,256,3,64,13,4500,33,6.4,120,LCD,188,Android,0,1,204
+Honor,Honor 60 Pro,Dimensity 7200,2020,8,128,4,108,16,4800,45,6.4,120,OLED,191,Android,1,1,344
+Honor,Honor 70 Pro,Snapdragon 8 Gen 2,2022,8,256,5,48,40,5400,80,6.6,120,OLED,200,Android,1,1,579
+Honor,Honor 70 Pro,Snapdragon 8 Gen 2,2022,16,1024,5,48,40,5400,80,6.6,120,OLED,200,Android,1,1,699
+Honor,Honor 70 Lite,Helio G99,2022,6,64,2,48,13,5000,18,6.2,90,LCD,168,Android,0,0,144
+Honor,Honor 70 Lite,Helio G99,2022,6,128,2,48,13,5000,18,6.2,90,LCD,168,Android,0,0,164
+Honor,Honor 80,Dimensity 6100+,2023,6,256,3,64,16,5300,25,6.5,120,LCD,191,Android,1,0,309
+Honor,Honor 80,Dimensity 6100+,2023,8,256,3,64,16,5300,25,6.5,120,LCD,191,Android,1,0,314
+Honor,Honor 80 Pro,Dimensity 9300,2023,12,256,5,50,12,5050,45,6.5,120,OLED,198,Android,1,1,604
+Honor,Honor 80 Pro,Dimensity 9300,2023,16,1024,5,50,12,5050,45,6.5,120,OLED,198,Android,1,1,694
+Honor,Honor 90,Snapdragon 7 Gen 3,2025,12,256,4,50,32,5400,33,6.4,120,OLED,200,Android,1,1,379
+Honor,Honor 90 Pro,Snapdragon 7 Gen 3,2025,8,256,4,50,32,5050,33,6.1,120,OLED,182,Android,1,1,309
+Honor,Honor 90 Pro,Snapdragon 7 Gen 3,2025,12,128,4,50,32,5050,33,6.1,120,OLED,182,Android,1,1,309
+Honor,Honor 90 Lite,Helio G85,2025,4,64,2,50,13,4750,18,6.5,90,OLED,204,Android,1,0,164
+Honor,Honor 90 Lite,Helio G85,2025,4,128,2,50,13,4750,18,6.5,90,OLED,204,Android,1,0,174
+Honor,Honor 90 Lite,Helio G85,2025,6,128,2,50,13,4750,18,6.5,90,OLED,204,Android,1,0,179
+Honor,Honor X6a,Helio G36,2019,3,64,1,50,8,5050,18,6.4,60,LCD,163,Android,0,0,64
+Honor,Honor X6a,Helio G36,2019,4,64,1,50,8,5050,18,6.4,60,LCD,163,Android,0,0,69
+Honor,Honor X6b,Helio G99,2019,4,64,2,48,8,4800,33,6.3,90,OLED,183,Android,0,0,129
+Honor,Honor X6b,Helio G99,2019,6,64,2,48,8,4800,33,6.3,90,OLED,183,Android,0,0,134
+Honor,Honor X6b,Helio G99,2019,6,128,2,48,8,4800,33,6.3,90,OLED,183,Android,0,0,144
+Honor,Honor X6c,Helio G99,2019,4,64,2,50,8,5750,25,6.2,90,LCD,183,Android,1,0,129
+Honor,Honor X6c,Helio G99,2019,4,128,2,50,8,5750,25,6.2,90,LCD,183,Android,1,0,129
+Honor,Honor X6c,Helio G99,2019,6,128,2,50,8,5750,25,6.2,90,LCD,183,Android,1,0,134
+Honor,Honor X7a,Helio G36,2021,3,32,1,50,8,5050,18,6.5,60,LCD,179,Android,0,0,64
+Honor,Honor X7a,Helio G36,2021,4,32,1,50,8,5050,18,6.5,60,LCD,179,Android,0,0,64
+Honor,Honor X7b,Snapdragon 4 Gen 1,2021,3,32,1,13,5,4850,10,6.2,60,LCD,186,Android,0,0,54
+Honor,Honor X7b,Snapdragon 4 Gen 1,2021,4,32,1,13,5,4850,10,6.2,60,LCD,186,Android,0,0,54
+Honor,Honor X7b,Snapdragon 4 Gen 1,2021,4,64,1,13,5,4850,10,6.2,60,LCD,186,Android,0,0,64
+Honor,Honor X8b,Snapdragon 680,2023,4,64,2,50,13,5600,33,6.7,120,LCD,173,Android,1,1,174
+Honor,Honor X8b,Snapdragon 680,2023,4,128,2,50,13,5600,33,6.7,120,LCD,173,Android,1,1,199
+Honor,Honor X8b,Snapdragon 680,2023,6,128,2,50,13,5600,33,6.7,120,LCD,173,Android,1,1,189
+Honor,Honor X8c,Exynos 1280,2023,8,256,3,64,32,5400,45,6.3,120,OLED,190,Android,1,0,294
+Honor,Honor X9a,Helio G36,2025,3,32,1,13,8,3950,18,6.6,60,LCD,171,Android,1,0,64
+Honor,Honor X9a,Helio G36,2025,3,64,1,13,8,3950,18,6.6,60,LCD,171,Android,1,0,74
+Honor,Honor X9a,Helio G36,2025,4,32,1,13,8,3950,18,6.6,60,LCD,171,Android,1,0,69
+Honor,Honor X9c,Dimensity 6100+,2025,6,128,3,108,16,4500,45,6.5,90,OLED,161,Android,1,1,319
+Honor,Honor X9c,Dimensity 6100+,2025,8,128,3,108,16,4500,45,6.5,90,OLED,161,Android,1,1,309
+Honor,Honor X9c,Dimensity 6100+,2025,8,256,3,108,16,4500,45,6.5,90,OLED,161,Android,1,1,349
+Nothing,Nothing Phone 1,Exynos 1280,2019,6,128,3,108,13,4800,25,6.5,90,OLED,183,Android,0,0,219
+Nothing,Nothing Phone 1,Exynos 1280,2019,8,128,3,108,13,4800,25,6.5,90,OLED,183,Android,0,0,239
+Nothing,Nothing Phone 1a,Helio G99,2019,4,64,2,50,8,5450,33,6.3,120,LCD,187,Android,0,0,134
+Nothing,Nothing Phone 1a,Helio G99,2019,6,64,2,50,8,5450,33,6.3,120,LCD,187,Android,0,0,129
+Nothing,Nothing Phone 2a,Helio G99,2022,4,128,2,48,13,4800,25,6.2,90,LCD,187,Android,0,1,184
+Nothing,Nothing Phone 2a,Helio G99,2022,6,128,2,48,13,4800,25,6.2,90,LCD,187,Android,0,1,184
+Nothing,Nothing Phone 3a,Helio G85,2025,6,128,2,50,13,4650,33,6.4,90,LCD,180,Android,1,0,194
+Tecno,Tecno Spark 9,Snapdragon 680,2019,4,64,2,48,8,5850,18,6.5,120,LCD,201,Android,0,1,94
+Tecno,Tecno Spark 9,Snapdragon 680,2019,6,64,2,48,8,5850,18,6.5,120,LCD,201,Android,0,1,94
+Tecno,Tecno Spark 9 Pro,Exynos 1280,2019,8,128,3,50,16,5650,33,6.1,120,OLED,177,Android,1,1,179
+Tecno,Tecno Spark 9 Pro,Exynos 1280,2019,8,256,3,50,16,5650,33,6.1,120,OLED,177,Android,1,1,194
+Tecno,Tecno Spark 10,Helio G85,2020,6,64,2,50,13,4500,25,6.6,120,LCD,174,Android,1,1,99
+Tecno,Tecno Spark 10 Pro,Snapdragon 695,2020,6,128,3,50,16,4650,25,6.0,90,LCD,202,Android,1,1,159
+Tecno,Tecno Spark 10 Pro,Snapdragon 695,2020,6,256,3,50,16,4650,25,6.0,90,LCD,202,Android,1,1,169
+Tecno,Tecno Spark 11,Helio G36,2020,3,32,1,13,8,5450,18,6.6,90,LCD,174,Android,0,0,44
+Tecno,Tecno Spark 11,Helio G36,2020,3,64,1,13,8,5450,18,6.6,90,LCD,174,Android,0,0,44
+Tecno,Tecno Spark 11,Helio G36,2020,4,64,1,13,8,5450,18,6.6,90,LCD,174,Android,0,0,44
+Tecno,Tecno Spark 11 Pro,Helio G85,2020,4,128,2,50,13,4800,25,6.0,90,LCD,210,Android,0,0,104
+Tecno,Tecno Spark 11 Pro,Helio G85,2020,6,64,2,50,13,4800,25,6.0,90,LCD,210,Android,0,0,94
+Tecno,Tecno Spark 12 Pro,Dimensity 6100+,2021,8,128,3,64,16,5150,45,6.2,90,OLED,176,Android,1,1,194
+Tecno,Tecno Spark 13 Pro,Snapdragon 695,2021,6,256,3,50,13,5350,45,6.7,90,LCD,159,Android,1,1,214
+Tecno,Tecno Spark 13 Pro,Snapdragon 695,2021,8,128,3,50,13,5350,45,6.7,90,LCD,159,Android,1,1,209
+Tecno,Tecno Spark 13 Pro,Snapdragon 695,2021,8,256,3,50,13,5350,45,6.7,90,LCD,159,Android,1,1,214
+Tecno,Tecno Spark 14,Snapdragon 4 Gen 1,2022,3,64,1,50,8,5600,10,6.2,60,LCD,171,Android,0,0,64
+Tecno,Tecno Spark 14,Snapdragon 4 Gen 1,2022,4,32,1,50,8,5600,10,6.2,60,LCD,171,Android,0,0,59
+Tecno,Tecno Spark 14,Snapdragon 4 Gen 1,2022,4,64,1,50,8,5600,10,6.2,60,LCD,171,Android,0,0,64
+Tecno,Tecno Spark 14 Pro,Snapdragon 695,2022,8,128,3,50,32,5150,25,6.0,120,OLED,170,Android,1,1,219
+Tecno,Tecno Spark 15,Helio G99,2022,4,64,2,50,13,4900,33,6.6,90,LCD,183,Android,0,1,109
+Tecno,Tecno Spark 15,Helio G99,2022,6,64,2,50,13,4900,33,6.6,90,LCD,183,Android,0,1,109
+Tecno,Tecno Spark 15,Helio G99,2022,6,128,2,50,13,4900,33,6.6,90,LCD,183,Android,0,1,119
+Tecno,Tecno Spark 16 Pro,Snapdragon 695,2023,6,128,3,64,13,4850,33,6.3,90,OLED,168,Android,1,1,184
+Tecno,Tecno Spark 17,Unisoc T606,2023,3,64,1,50,5,5100,18,6.4,60,LCD,154,Android,1,0,74
+Tecno,Tecno Spark 17,Unisoc T606,2023,4,32,1,50,5,5100,18,6.4,60,LCD,154,Android,1,0,69
+Tecno,Tecno Spark 17 Pro,Helio G85,2023,4,128,2,50,8,4650,33,6.7,120,LCD,189,Android,1,1,139
+Tecno,Tecno Spark 17 Pro,Helio G85,2023,6,64,2,50,8,4650,33,6.7,120,LCD,189,Android,1,1,129
+Tecno,Tecno Spark 18,Snapdragon 680,2024,4,64,2,50,8,5550,33,6.6,120,LCD,188,Android,1,0,104
+Tecno,Tecno Spark 19,Helio G99,2024,6,64,2,50,13,5700,33,6.7,90,LCD,163,Android,1,0,144
+Tecno,Tecno Spark 20,Helio G85,2025,4,64,2,50,8,5050,25,6.4,120,LCD,195,Android,1,1,129
+Tecno,Tecno Spark 20,Helio G85,2025,6,64,2,50,8,5050,25,6.4,120,LCD,195,Android,1,1,129
+Tecno,Tecno Spark 20 Pro,Helio G85,2025,4,64,2,48,8,4850,33,6.0,120,LCD,159,Android,1,1,94
+Tecno,Tecno Spark 20 Pro,Helio G85,2025,4,128,2,48,8,4850,33,6.0,120,LCD,159,Android,1,1,104
+Tecno,Tecno Spark 20 Pro,Helio G85,2025,6,64,2,48,8,4850,33,6.0,120,LCD,159,Android,1,1,94
+Tecno,Tecno Camon 17,Snapdragon 680,2019,4,128,2,50,8,4900,33,6.3,120,LCD,164,Android,0,1,99
+Tecno,Tecno Camon 17,Snapdragon 680,2019,6,64,2,50,8,4900,33,6.3,120,LCD,164,Android,0,1,99
+Tecno,Tecno Camon 17,Snapdragon 680,2019,6,128,2,50,8,4900,33,6.3,120,LCD,164,Android,0,1,104
+Tecno,Tecno Camon 17 Pro,Snapdragon 7+ Gen 2,2019,12,128,4,108,16,4950,33,6.2,144,OLED,197,Android,0,1,249
+Tecno,Tecno Camon 17 Pro,Snapdragon 7+ Gen 2,2019,12,512,4,108,16,4950,33,6.2,144,OLED,197,Android,0,1,319
+Tecno,Tecno Camon 18,Snapdragon 695,2019,6,256,3,64,16,5000,45,6.5,120,OLED,188,Android,0,1,189
+Tecno,Tecno Camon 18,Snapdragon 695,2019,8,256,3,64,16,5000,45,6.5,120,OLED,188,Android,0,1,199
+Tecno,Tecno Camon 19,Dimensity 6100+,2019,6,128,3,108,16,5000,33,6.6,90,LCD,164,Android,0,1,134
+Tecno,Tecno Camon 19,Dimensity 6100+,2019,6,256,3,108,16,5000,33,6.6,90,LCD,164,Android,0,1,149
+Tecno,Tecno Camon 19,Dimensity 6100+,2019,8,256,3,108,16,5000,33,6.6,90,LCD,164,Android,0,1,149
+Tecno,Tecno Camon 19 Pro,Exynos 1280,2019,8,256,3,50,16,5000,33,6.5,90,LCD,183,Android,0,0,149
+Tecno,Tecno Camon 20,Exynos 1280,2020,6,128,3,108,13,5150,33,6.5,120,OLED,199,Android,1,0,224
+Tecno,Tecno Camon 20,Exynos 1280,2020,6,256,3,108,13,5150,33,6.5,120,OLED,199,Android,1,0,239
+Tecno,Tecno Camon 20,Exynos 1280,2020,8,128,3,108,13,5150,33,6.5,120,OLED,199,Android,1,0,239
+Tecno,Tecno Camon 20 Pro,Exynos 1480,2020,8,128,4,64,32,4750,67,6.6,120,OLED,176,Android,0,1,299
+Tecno,Tecno Camon 20 Pro,Exynos 1480,2020,12,512,4,64,32,4750,67,6.6,120,OLED,176,Android,0,1,369
+Tecno,Tecno Camon 21,Snapdragon 680,2020,4,64,2,48,8,4850,33,6.2,90,OLED,166,Android,0,1,94
+Tecno,Tecno Camon 21,Snapdragon 680,2020,6,64,2,48,8,4850,33,6.2,90,OLED,166,Android,0,1,104
+Tecno,Tecno Camon 21,Snapdragon 680,2020,6,128,2,48,8,4850,33,6.2,90,OLED,166,Android,0,1,114
+Tecno,Tecno Camon 21 Pro,Dimensity 6100+,2020,8,256,3,108,13,5000,25,6.4,120,LCD,198,Android,0,1,184
+Tecno,Tecno Camon 22,Dimensity 6100+,2021,6,256,3,64,16,5050,25,6.4,90,LCD,189,Android,1,1,209
+Tecno,Tecno Camon 23 Pro,Dimensity 7200,2021,12,512,4,64,16,5000,33,6.5,120,OLED,192,Android,1,1,299
+Tecno,Tecno Camon 24,Snapdragon 680,2022,6,64,2,50,13,5300,25,6.2,90,LCD,187,Android,1,0,119
+Tecno,Tecno Camon 24,Snapdragon 680,2022,6,128,2,50,13,5300,25,6.2,90,LCD,187,Android,1,0,124
+Tecno,Tecno Camon 25,Snapdragon 680,2022,4,128,2,50,13,4850,18,6.4,90,LCD,186,Android,1,1,99
+Tecno,Tecno Camon 25,Snapdragon 680,2022,6,128,2,50,13,4850,18,6.4,90,LCD,186,Android,1,1,109
+Tecno,Tecno Camon 25 Pro,Snapdragon 7+ Gen 2,2022,12,128,4,50,16,4850,33,6.3,120,OLED,202,Android,1,1,304
+Tecno,Tecno Camon 26,Snapdragon 680,2023,4,64,2,50,8,5000,18,6.1,90,LCD,194,Android,0,1,104
+Tecno,Tecno Camon 26,Snapdragon 680,2023,6,128,2,50,8,5000,18,6.1,90,LCD,194,Android,0,1,109
+Tecno,Tecno Camon 27 Pro,Exynos 1480,2023,8,128,4,50,16,4750,67,6.6,120,OLED,183,Android,1,1,294
+Tecno,Tecno Camon 27 Pro,Exynos 1480,2023,12,256,4,50,16,4750,67,6.6,120,OLED,183,Android,1,1,339
+Tecno,Tecno Camon 28 Pro,Snapdragon 7 Gen 3,2024,8,512,4,50,32,5050,33,6.5,144,OLED,193,Android,1,1,319
+Tecno,Tecno Camon 29,Helio G99,2024,4,128,2,48,13,4900,25,6.2,90,LCD,173,Android,1,0,139
+Tecno,Tecno Camon 29,Helio G99,2024,6,64,2,48,13,4900,25,6.2,90,LCD,173,Android,1,0,139
+Tecno,Tecno Camon 29,Helio G99,2024,6,128,2,48,13,4900,25,6.2,90,LCD,173,Android,1,0,159
+Tecno,Tecno Camon 29 Pro,Dimensity 7200,2024,8,128,4,50,16,5150,80,6.3,120,OLED,175,Android,1,1,264
+Tecno,Tecno Camon 29 Pro,Dimensity 7200,2024,12,512,4,50,16,5150,80,6.3,120,OLED,175,Android,1,1,349
+Tecno,Tecno Camon 30,Helio G85,2025,4,128,2,48,13,5150,33,6.1,90,LCD,168,Android,1,0,114
+Tecno,Tecno Camon 30,Helio G85,2025,6,128,2,48,13,5150,33,6.1,90,LCD,168,Android,1,0,119
+Tecno,Tecno Camon 30 Pro,Snapdragon 695,2025,6,128,3,50,13,4600,33,6.1,120,OLED,187,Android,1,1,229
+Infinix,Infinix Hot 10 Play,Helio G36,2019,3,32,1,13,8,4800,18,6.2,90,LCD,170,Android,0,0,59
+Infinix,Infinix Hot 10 Play,Helio G36,2019,4,64,1,13,8,4800,18,6.2,90,LCD,170,Android,0,0,64
+Infinix,Infinix Hot 13,Snapdragon 680,2019,6,64,2,48,13,4800,33,6.6,90,LCD,154,Android,0,1,84
+Infinix,Infinix Hot 13 Play,Snapdragon 4 Gen 1,2019,3,32,1,13,8,4950,10,6.3,60,LCD,169,Android,0,1,39
+Infinix,Infinix Hot 13 Play,Snapdragon 4 Gen 1,2019,3,64,1,13,8,4950,10,6.3,60,LCD,169,Android,0,1,44
+Infinix,Infinix Hot 13 Play,Snapdragon 4 Gen 1,2019,4,64,1,13,8,4950,10,6.3,60,LCD,169,Android,0,1,44
+Infinix,Infinix Hot 16,Unisoc T606,2020,3,32,1,13,5,4800,18,6.1,90,LCD,168,Android,0,1,49
+Infinix,Infinix Hot 16,Unisoc T606,2020,3,64,1,13,5,4800,18,6.1,90,LCD,168,Android,0,1,54
+Infinix,Infinix Hot 16 Play,Snapdragon 4 Gen 1,2020,3,64,1,13,8,5000,18,6.6,60,LCD,164,Android,0,1,44
+Infinix,Infinix Hot 19,Snapdragon 4 Gen 1,2020,3,32,1,13,8,4950,10,6.5,60,LCD,149,Android,0,0,54
+Infinix,Infinix Hot 19,Snapdragon 4 Gen 1,2020,4,32,1,13,8,4950,10,6.5,60,LCD,149,Android,0,0,49
+Infinix,Infinix Hot 19 Play,Unisoc T606,2020,3,32,1,50,8,5000,10,6.1,90,LCD,163,Android,0,1,59
+Infinix,Infinix Hot 19 Play,Unisoc T606,2020,4,32,1,50,8,5000,10,6.1,90,LCD,163,Android,0,1,59
+Infinix,Infinix Hot 19 Play,Unisoc T606,2020,4,64,1,50,8,5000,10,6.1,90,LCD,163,Android,0,1,64
+Infinix,Infinix Hot 22 Play,Unisoc T606,2021,3,32,1,13,8,5850,18,6.5,60,LCD,191,Android,1,0,59
+Infinix,Infinix Hot 22 Play,Unisoc T606,2021,3,64,1,13,8,5850,18,6.5,60,LCD,191,Android,1,0,59
+Infinix,Infinix Hot 22 Play,Unisoc T606,2021,4,64,1,13,8,5850,18,6.5,60,LCD,191,Android,1,0,59
+Infinix,Infinix Hot 25,Snapdragon 680,2022,4,64,2,50,8,4700,25,6.1,90,LCD,170,Android,0,1,109
+Infinix,Infinix Hot 25,Snapdragon 680,2022,4,128,2,50,8,4700,25,6.1,90,LCD,170,Android,0,1,114
+Infinix,Infinix Hot 25,Snapdragon 680,2022,6,128,2,50,8,4700,25,6.1,90,LCD,170,Android,0,1,114
+Infinix,Infinix Hot 25 Play,Helio G36,2022,3,64,1,13,5,5900,10,6.7,60,LCD,163,Android,0,0,59
+Infinix,Infinix Hot 25 Play,Helio G36,2022,4,64,1,13,5,5900,10,6.7,60,LCD,163,Android,0,0,59
+Infinix,Infinix Hot 28,Unisoc T606,2022,3,32,1,13,5,5750,10,6.0,90,LCD,160,Android,1,0,54
+Infinix,Infinix Hot 28,Unisoc T606,2022,4,64,1,13,5,5750,10,6.0,90,LCD,160,Android,1,0,59
+Infinix,Infinix Hot 28 Play,Helio G36,2022,3,64,1,13,5,4900,18,6.3,90,LCD,158,Android,1,0,49
+Infinix,Infinix Hot 31,Snapdragon 4 Gen 1,2023,3,64,1,13,5,4900,18,6.2,60,LCD,164,Android,0,1,59
+Infinix,Infinix Hot 31,Snapdragon 4 Gen 1,2023,4,64,1,13,5,4900,18,6.2,60,LCD,164,Android,0,1,69
+Infinix,Infinix Hot 31 Play,Helio G36,2023,3,64,1,50,8,5000,18,6.2,90,LCD,156,Android,1,0,64
+Infinix,Infinix Hot 31 Play,Helio G36,2023,4,32,1,50,8,5000,18,6.2,90,LCD,156,Android,1,0,59
+Infinix,Infinix Hot 31 Play,Helio G36,2023,4,64,1,50,8,5000,18,6.2,90,LCD,156,Android,1,0,64
+Infinix,Infinix Hot 34,Helio G85,2023,4,64,2,48,13,4800,18,6.4,120,LCD,169,Android,0,1,134
+Infinix,Infinix Hot 34,Helio G85,2023,4,128,2,48,13,4800,18,6.4,120,LCD,169,Android,0,1,139
+Infinix,Infinix Hot 34,Helio G85,2023,6,64,2,48,13,4800,18,6.4,120,LCD,169,Android,0,1,139
+Infinix,Infinix Hot 34 Play,Helio G36,2023,4,64,1,13,8,4850,18,6.1,90,LCD,185,Android,1,0,59
+Infinix,Infinix Hot 37,Helio G99,2024,4,64,2,50,13,5350,25,6.7,90,LCD,164,Android,1,1,124
+Infinix,Infinix Hot 37,Helio G99,2024,4,128,2,50,13,5350,25,6.7,90,LCD,164,Android,1,1,134
+Infinix,Infinix Hot 37,Helio G99,2024,6,128,2,50,13,5350,25,6.7,90,LCD,164,Android,1,1,134
+Infinix,Infinix Hot 37 Play,Snapdragon 4 Gen 1,2024,3,32,1,13,5,4900,10,6.4,60,LCD,183,Android,1,1,59
+Infinix,Infinix Hot 37 Play,Snapdragon 4 Gen 1,2024,4,64,1,13,5,4900,10,6.4,60,LCD,183,Android,1,1,64
+Infinix,Infinix Hot 40,Helio G36,2025,3,32,1,50,8,5250,18,6.5,90,LCD,173,Android,1,1,69
+Infinix,Infinix Hot 40,Helio G36,2025,4,64,1,50,8,5250,18,6.5,90,LCD,173,Android,1,1,74
+Infinix,Infinix Hot 40 Play,Unisoc T606,2025,3,64,1,13,8,4950,18,6.6,90,LCD,162,Android,1,0,69
+Infinix,Infinix Note 10,Helio G85,2019,6,64,2,48,13,4800,18,6.0,90,LCD,157,Android,1,1,99
+Infinix,Infinix Note 10,Helio G85,2019,6,128,2,48,13,4800,18,6.0,90,LCD,157,Android,1,1,104
+Infinix,Infinix Note 10 Pro,Exynos 1280,2019,8,256,3,50,13,4500,45,6.2,90,OLED,184,Android,0,1,164
+Infinix,Infinix Note 13,Snapdragon 680,2019,4,128,2,48,8,4450,33,6.1,90,LCD,185,Android,0,1,84
+Infinix,Infinix Note 13,Snapdragon 680,2019,6,64,2,48,8,4450,33,6.1,90,LCD,185,Android,0,1,84
+Infinix,Infinix Note 13 Pro,Dimensity 7200,2019,8,128,4,64,16,4600,67,6.5,144,OLED,191,Android,1,1,239
+Infinix,Infinix Note 16,Snapdragon 695,2020,6,128,3,50,13,5500,45,6.3,90,LCD,171,Android,1,1,184
+Infinix,Infinix Note 16,Snapdragon 695,2020,6,256,3,50,13,5500,45,6.3,90,LCD,171,Android,1,1,189
+Infinix,Infinix Note 16,Snapdragon 695,2020,8,128,3,50,13,5500,45,6.3,90,LCD,171,Android,1,1,179
+Infinix,Infinix Note 16 Pro,Dimensity 6100+,2020,6,128,3,64,13,4750,33,6.1,120,LCD,198,Android,1,1,159
+Infinix,Infinix Note 16 Pro,Dimensity 6100+,2020,6,256,3,64,13,4750,33,6.1,120,LCD,198,Android,1,1,169
+Infinix,Infinix Note 19 Pro,Snapdragon 695,2020,6,128,3,64,16,4950,25,6.4,90,OLED,183,Android,1,1,134
+Infinix,Infinix Note 22,Snapdragon 695,2021,6,256,3,50,16,5450,45,6.3,120,OLED,190,Android,1,0,169
+Infinix,Infinix Note 22,Snapdragon 695,2021,8,128,3,50,16,5450,45,6.3,120,OLED,190,Android,1,0,169
+Infinix,Infinix Note 22 Pro,Dimensity 6100+,2021,6,256,3,108,32,5200,45,6.1,120,OLED,177,Android,0,1,179
+Infinix,Infinix Note 22 Pro,Dimensity 6100+,2021,8,128,3,108,32,5200,45,6.1,120,OLED,177,Android,0,1,169
+Infinix,Infinix Note 22 Pro,Dimensity 6100+,2021,8,256,3,108,32,5200,45,6.1,120,OLED,177,Android,0,1,194
+Infinix,Infinix Note 28,Exynos 1280,2022,6,256,3,108,16,5050,25,6.0,90,OLED,175,Android,1,0,189
+Infinix,Infinix Note 28,Exynos 1280,2022,8,256,3,108,16,5050,25,6.0,90,OLED,175,Android,1,0,189
+Infinix,Infinix Note 31 Pro,Exynos 1280,2023,6,128,3,50,16,5050,25,6.2,90,OLED,202,Android,1,1,194
+Infinix,Infinix Note 31 Pro,Exynos 1280,2023,6,256,3,50,16,5050,25,6.2,90,OLED,202,Android,1,1,214
+Infinix,Infinix Note 31 Pro,Exynos 1280,2023,8,128,3,50,16,5050,25,6.2,90,OLED,202,Android,1,1,199
+Infinix,Infinix Note 34,Snapdragon 680,2023,4,128,2,48,8,5400,25,6.3,120,LCD,168,Android,1,1,109
+Infinix,Infinix Note 34,Snapdragon 680,2023,6,128,2,48,8,5400,25,6.3,120,LCD,168,Android,1,1,119
+Infinix,Infinix Note 34 Pro,Exynos 1280,2023,6,128,3,108,13,4900,45,6.2,90,LCD,169,Android,1,1,174
+Infinix,Infinix Note 34 Pro,Exynos 1280,2023,6,256,3,108,13,4900,45,6.2,90,LCD,169,Android,1,1,184
+Infinix,Infinix Note 34 Pro,Exynos 1280,2023,8,256,3,108,13,4900,45,6.2,90,LCD,169,Android,1,1,194
+Infinix,Infinix Note 37,Exynos 1280,2024,6,128,3,108,13,5350,45,6.6,120,OLED,173,Android,1,1,264
+Infinix,Infinix Note 37 Pro,Snapdragon 7+ Gen 2,2024,8,128,4,50,16,5300,67,6.6,120,OLED,207,Android,1,1,334
+Infinix,Infinix Note 37 Pro,Snapdragon 7+ Gen 2,2024,12,256,4,50,16,5300,67,6.6,120,OLED,207,Android,1,1,359
+Infinix,Infinix Note 40 Pro,Snapdragon 7+ Gen 2,2025,12,128,4,64,32,5200,80,6.5,120,OLED,192,Android,1,1,394

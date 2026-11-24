@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ckb" dir="rtl" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>PriceAI</title>
+  <meta name="description" content="PriceAI — پێشبینیی نرخی مۆبایل بە زیرەکیی دەستکرد">
+  <meta name="theme-color" content="#0B0E19">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>
+    // پێش بارکردنی پەڕە ڕووکار و زمان دابنێ، بۆ ئەوەی ترووسکە (flash) نەبێت
+    try {
+      var s = JSON.parse(localStorage.getItem("priceai") || "{}");
+      var theme = s.theme || "dark";
+      document.documentElement.dataset.theme = theme;
+      if (s.lang === "en") { document.documentElement.lang = "en"; document.documentElement.dir = "ltr"; }
+      else if (s.lang === "ar") { document.documentElement.lang = "ar"; document.documentElement.dir = "rtl"; }
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#app">Skip</a>
+  <header class="site-header" id="site-header"></header>
+  <main id="app" tabindex="-1"></main>
+  <footer class="site-footer" id="site-footer"></footer>
+  <nav class="mobile-nav" id="mobile-nav"></nav>
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+  <noscript><p style="padding:24px;text-align:center">PriceAI needs JavaScript. / PriceAI پێویستی بە JavaScript هەیە.</p></noscript>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

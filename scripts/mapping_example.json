@@ -1,0 +1,22 @@
+{
+  "_note": "لای چەپ: ناوی ستوون لە PriceAI. 'from': ناوی ستوون لە فایلەکەی تۆ. 'as': جۆری گۆڕین (number, storage, yesno, display, text). ناوەکانی 'from' بگۆڕە بۆ ناوی ستوونەکانی داتاکەت.",
+  "columns": {
+    "brand":           {"from": "brand",          "as": "text"},
+    "model":           {"from": "model",          "as": "text"},
+    "chipset":         {"from": "chipset",        "as": "text"},
+    "release_year":    {"from": "release_year",   "as": "number"},
+    "ram_gb":          {"from": "ram",            "as": "storage"},
+    "storage_gb":      {"from": "storage",        "as": "storage"},
+    "main_camera_mp":  {"from": "main_camera",    "as": "number"},
+    "front_camera_mp": {"from": "selfie_camera",  "as": "number"},
+    "battery_mah":     {"from": "battery",        "as": "number"},
+    "fast_charge_w":   {"from": "charging",       "as": "number"},
+    "screen_inch":     {"from": "display_size",   "as": "number"},
+    "refresh_rate_hz": {"from": "refresh_rate",   "as": "number"},
+    "display_type":    {"from": "display_type",   "as": "display"},
+    "weight_g":        {"from": "weight",         "as": "number"},
+    "has_5g":          {"from": "network",        "as": "yesno"},
+    "has_nfc":         {"from": "nfc",            "as": "yesno"},
+    "price_usd":       {"from": "price",          "as": "number"}
+  }
+}
